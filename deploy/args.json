@@ -16,7 +16,10 @@
     "milvus-etcd": "v3.5.5",
     "milvus-standalone": "v2.4.3",
     "oceanbase": "4.3.5-lts",
-    "seekdb": "1.0.1.0-100000392025122619"
+    "seekdb": "1.0.1.0-100000392025122619",
+    "opensandbox-server": "v0.1.9",
+    "opensandbox-execd": "v1.0.7",
+    "opensandbox-egress": "v1.0.3"
   },
   "images": {
     "cn": {
