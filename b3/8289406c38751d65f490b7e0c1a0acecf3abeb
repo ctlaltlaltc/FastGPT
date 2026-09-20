@@ -67,6 +67,7 @@ packages/global/openapi/core/chat/completion/api.ts
   s_85af33425a736e::t_6338151d97fab3 183-190
 packages/global/openapi/admin/common/license/api.ts
   s_85af33425a736e::t_72c1267375fad6 10,27-28,31-36
+  s_85af33425a736e::t_11a673ed6f65e4 2-5,11-26,29-30
 packages/global/openapi/core/dataset/synonym/api.ts
   s_85af33425a736e::t_427a8122362cb7 51,56
 packages/global/openapi/admin/routes/settings/index.ts
@@ -164,6 +165,10 @@ projects/app/test/pages/api/core/ai/model/test.test.ts
 packages/global/openapi/core/app/common/api.ts
   s_85af33425a736e::t_5702658ca7ff32 506-509,511
   s_85af33425a736e::t_6338151d97fab3 505,510
+packages/global/test/openapi/admin/common/license.test.ts
+  s_85af33425a736e::t_3fe1c7b9f2cf86 1-29
+projects/app/test/pages/api/core/ai/model/update.test.ts
+  s_85af33425a736e::t_11a673ed6f65e4 457-458,461,464-467
 ---
 {
   "schema_version": "authorship/3.0.0",
