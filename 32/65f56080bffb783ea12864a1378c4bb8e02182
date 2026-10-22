@@ -1,0 +1,41 @@
+.agents/issue/agent-nested-tool-context-pollution-analysis.md
+  s_482bcbffba9226::t_89197893c72756 1-299
+packages/service/core/workflow/dispatch/ai/toolcall/toolProvider/createToolCallToolProvider.ts
+  s_482bcbffba9226::t_87615f66960c8d 41-42,56
+  s_482bcbffba9226::t_ab8b7d14057cb9 84-86
+  s_482bcbffba9226::t_76c2a6190be386 57-59
+packages/global/test/core/chat/adapt.test.ts
+  s_482bcbffba9226::t_efe3197d2e89bb 1970,1978-1990,2003-2021
+  s_482bcbffba9226::t_cbc5f45ac75b31 1971-1977,1991-2002,2022-2043
+packages/service/test/core/workflow/dispatch/ai/toolcall/index.test.ts
+  s_482bcbffba9226::t_9e1a1382992abb 238-285
+  s_482bcbffba9226::t_62446f5d5999c4 5
+packages/service/test/core/workflow/dispatch/ai/toolcall/toolCall.test.ts
+  s_482bcbffba9226::t_24a44ff9091942 499-543
+packages/global/core/chat/adapt.ts
+  s_482bcbffba9226::t_105c15cf020ca0 537-542
+  s_482bcbffba9226::t_76c2a6190be386 545
+packages/service/core/workflow/dispatch/ai/toolcall/toolCall.ts
+  s_482bcbffba9226::t_7e581b66222700 36
+  s_482bcbffba9226::t_72c02e2e7c6ded 91-96,106-109
+  s_482bcbffba9226::t_3eb06e9a5f4127 206-207
+packages/service/core/workflow/dispatch/ai/toolcall/index.ts
+  s_482bcbffba9226::t_45b4d922ff674e 190-191
+  s_482bcbffba9226::t_5d05079cbfe682 239-240,255-256,273
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3265f56080bffb783ea12864a1378c4bb8e02182",
+  "prompts": {},
+  "sessions": {
+    "s_482bcbffba9226": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f6177b49-516d-4752-8f96-2185ccee778b",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Jon <ljp@sangfor.com.cn>"
+    }
+  }
+}
