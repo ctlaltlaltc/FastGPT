@@ -1,0 +1,78 @@
+packages/web/i18n/en/common.json
+  s_e73f855f312777::t_fee827d641fd0d 881
+packages/global/core/app/formEdit/utils.ts
+  s_e73f855f312777::t_020ffc364818c9 426-428
+projects/app/test/service/core/app/controller.test.ts
+  s_e73f855f312777::t_dfb0c24ad29c63 468-487
+projects/app/src/pages/api/core/app/hydrateWorkflow.ts
+  s_e73f855f312777::t_414d07b821e7bc 1-64
+packages/web/i18n/zh-Hant/common.json
+  s_e73f855f312777::t_e60eba8dfd3021 881
+packages/global/openapi/core/app/common/api.ts
+  s_e73f855f312777::t_fa59175393df4e 272-282,291-292,295,297,305-328
+  s_e73f855f312777::t_651a5d73e72a9f 283-290
+  s_e73f855f312777::t_01cf4f635a701d 329
+packages/global/openapi/core/app/common/index.ts
+  s_e73f855f312777::t_b81c598dac4af8 120-138,140-141
+  s_e73f855f312777::t_ae3d46f9180f5f 6
+  s_e73f855f312777::t_3ea7f14877d4f3 15-16
+  s_e73f855f312777::t_7ce84980b1d35d 104
+  s_e73f855f312777::t_7a793c160e1856 139
+  s_e73f855f312777::t_3cf4eb0ee3176d 142-143
+packages/global/test/core/app/formEdit/utils.test.ts
+  s_e73f855f312777::t_bd9c52b574842f 20
+  s_e73f855f312777::t_a2f036dcb885a1 1765-1780
+projects/app/src/pages/api/core/app/create.ts
+  s_e73f855f312777::t_7fbba1e2e3a5c1 158-159,178-179
+  s_e73f855f312777::t_d687581f357055 61-73
+  s_e73f855f312777::t_354d4d32180f6a 112-113
+  s_e73f855f312777::t_798e7616776b01 221,225,227-244
+  s_e73f855f312777::t_e649341385c138 43-46
+packages/web/i18n/zh-CN/common.json
+  s_e73f855f312777::t_70541dd1df4479 881
+packages/service/core/app/controller.ts
+  s_e73f855f312777::t_731a73f6455d50 77-81
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/ImportSettings.tsx
+  s_e73f855f312777::t_75ec75610bdbfc 62-77
+  s_e73f855f312777::t_cde8b4f0c173f9 3,6
+  s_e73f855f312777::t_293a3361d09dfa 28
+projects/app/test/web/core/workflow/utils.test.ts
+  s_e73f855f312777::t_fef530addd0dbb 1-138
+projects/app/src/web/core/workflow/utils.ts
+  s_e73f855f312777::t_d3803834a03287 427-428,430-431,448-476
+  s_e73f855f312777::t_d25508681d3e19 14
+  s_e73f855f312777::t_1236046de2af2b 37-38
+projects/app/src/web/core/app/api.ts
+  s_e73f855f312777::t_9c2b17813b8f67 18-19
+  s_e73f855f312777::t_ab89c1c2e74a1b 71-74
+packages/web/i18n/ko-KR/common.json
+  s_e73f855f312777::t_d1f6081caca1f4 872
+projects/app/src/pageComponents/dashboard/agent/JsonImportModal.tsx
+  s_e73f855f312777::t_95491b7f96c0e7 169-171
+projects/app/test/api/core/app/create.test.ts
+  s_e73f855f312777::t_f41bb94759a878 199-200,206-207
+  s_e73f855f312777::t_2d99b21e80638f 3,7-11
+  s_e73f855f312777::t_2cb8eadd783ff6 182-198,201-205,208-251
+projects/app/test/api/core/app/hydrateWorkflow.test.ts
+  s_e73f855f312777::t_d3036a629de406 78
+  s_e73f855f312777::t_e92d6c5a2d22e8 113
+  s_e73f855f312777::t_5bd07c14821820 6-9
+  s_e73f855f312777::t_fd462fe31bd34b 42-43,49-50
+  s_e73f855f312777::t_f312beeb859785 1-5,10-41,44-48,51-77,79-112,114-121
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9ffb2e86cbb1af5fa53c43352705162bfb2f7eff",
+  "prompts": {},
+  "sessions": {
+    "s_e73f855f312777": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e702b819-47ff-4325-af4c-1776f3a3e2e7",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Jon <ljp@sangfor.com.cn>"
+    }
+  }
+}
