@@ -1,0 +1,32 @@
+projects/app/test/web/core/workflow/check/check.test.ts
+  s_2dd9c70ff46c83::t_0357ddcca79c39 734-761
+packages/global/core/workflow/template/system/agent/index.ts
+  s_2dd9c70ff46c83::t_d74f424356b716 38-39
+packages/service/test/core/workflow/dispatch/ai/agent/index.test.ts
+  s_2dd9c70ff46c83::t_07fe5b67b30133 776
+packages/service/test/core/workflow/dispatch/ai/toolcall/hooks/useToolNodeList.test.ts
+  s_2dd9c70ff46c83::t_13e67074fc9d5a 194-242
+packages/service/core/workflow/dispatch/ai/agent/index.ts
+  s_2dd9c70ff46c83::t_f3c669e6ba5e59 408-410
+projects/app/test/web/core/app/workflow/toolNodeTemplates.test.ts
+  s_2dd9c70ff46c83::t_9b7b217d87b004 116-120
+  s_2dd9c70ff46c83::t_ba40b77923d148 18
+  s_2dd9c70ff46c83::t_368fecbcf030d9 36
+  s_2dd9c70ff46c83::t_2486030d61f5a0 55-56
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6f29f90fc01575b5228ebcbeee8f17605f00945a",
+  "prompts": {},
+  "sessions": {
+    "s_2dd9c70ff46c83": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "dd4d1c73-d95f-454a-a543-6a80a0e58ebf",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Jon <ljp@sangfor.com.cn>"
+    }
+  }
+}
