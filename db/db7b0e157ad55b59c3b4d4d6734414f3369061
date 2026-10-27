@@ -1,0 +1,118 @@
+projects/app/test/pageComponents/app/detail/WorkflowComponents/Flow/nodes/NodeAgent/utils.test.ts
+  s_e42f0a09ac5073::t_0cc7f093efca9c 155-157
+  s_e42f0a09ac5073::t_83253030992d1b 146-154,158-163,170
+  s_e42f0a09ac5073::t_e0985a04a030b5 4
+  s_e42f0a09ac5073::t_92a8485deb83e5 164-169
+projects/app/src/components/core/app/SelectedToolCard.utils.ts
+  s_e42f0a09ac5073::t_f157c36b3c2412 1-34,37-45
+  s_e42f0a09ac5073::t_16a219b8906c90 35-36
+packages/global/openapi/core/app/common/api.ts
+  s_e42f0a09ac5073::t_b93252ec771513 281
+packages/global/test/core/app/tool/utils.test.ts
+  s_e42f0a09ac5073::t_471448335bc9dd 332
+  s_e42f0a09ac5073::t_d8d1ad7fa241cf 290-326,334-336
+  s_e42f0a09ac5073::t_dda4a01271e60d 327-331,333
+  s_e42f0a09ac5073::t_5e400be240cf98 3,13
+packages/service/core/app/controller.ts
+  s_e42f0a09ac5073::t_aca165429fec69 77
+packages/global/core/workflow/template/system/agent/index.ts
+  s_e42f0a09ac5073::t_4ff2bf5327582c 231
+projects/app/test/web/core/workflow/check/check.test.ts
+  s_e42f0a09ac5073::t_c292d2203a45ae 1060,1064-1065,1067-1068
+  s_e42f0a09ac5073::t_d660cb4f55cd9b 1107-1153,1159-1175
+  s_e42f0a09ac5073::t_471448335bc9dd 1066,1156
+  s_e42f0a09ac5073::t_232b1c3841fa96 1176-1204
+  s_e42f0a09ac5073::t_ecaaf959053eac 1154-1155,1157-1158
+packages/global/core/app/tool/utils.ts
+  s_e42f0a09ac5073::t_0b16e1e35bbf20 126-130,132-140,142-150
+  s_e42f0a09ac5073::t_fce280dfb6c79e 141
+  s_e42f0a09ac5073::t_471448335bc9dd 131
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/NodeAgent/index.tsx
+  s_e42f0a09ac5073::t_8d4ee05d243c7e 314-328
+  s_e42f0a09ac5073::t_2c17cfaa92f6fe 221
+  s_e42f0a09ac5073::t_1ac3cdfb331ed7 655,657-660
+  s_e42f0a09ac5073::t_6a3350af93da55 423
+  s_e42f0a09ac5073::t_5fbbae9a956d39 722-726
+  s_e42f0a09ac5073::t_bd007cd054a034 39,43
+  s_e42f0a09ac5073::t_dae1cecd675b1d 663
+  s_e42f0a09ac5073::t_448a51f1c67e3c 760,762
+  s_e42f0a09ac5073::t_fbd4af3fa3b491 761
+projects/app/src/web/core/workflow/check/resource.ts
+  s_e42f0a09ac5073::t_c1df056ab341e1 254
+  s_e42f0a09ac5073::t_8c34df3edabc4e 9
+  s_e42f0a09ac5073::t_43486a95909384 18
+  s_e42f0a09ac5073::t_075979f5250937 158-160,166-167
+  s_e42f0a09ac5073::t_471448335bc9dd 161-165
+projects/app/src/pageComponents/app/detail/Edit/FormComponent/ToolSelector/ToolSelect.tsx
+  s_e42f0a09ac5073::t_43f59d65dcaff3 78
+  s_e42f0a09ac5073::t_19fbc5dbb7c77f 79
+  s_e42f0a09ac5073::t_b6bc48809b124f 74-77,80-81
+  s_e42f0a09ac5073::t_ef3c6c3d8b34b1 16
+  s_e42f0a09ac5073::t_67ad6ba609df05 1,17
+projects/app/test/components/core/app/SelectedToolCard.utils.test.ts
+  s_e42f0a09ac5073::t_cb7a32fedc4a44 1-43,45-126
+  s_e42f0a09ac5073::t_59f89ec34eeca5 44
+projects/app/test/pageComponents/app/detail/Edit/ChatAgent/utils.test.ts
+  s_e42f0a09ac5073::t_471448335bc9dd 212,253
+  s_e42f0a09ac5073::t_13eb30dbf4acc6 234-252,254-263
+projects/app/src/components/core/app/SelectedToolCard.tsx
+  s_e42f0a09ac5073::t_17fe9089614886 1-127
+projects/app/src/pageComponents/app/detail/Edit/ChatAgent/hooks/useSkillManager.tsx
+  s_e42f0a09ac5073::t_df517738a04c99 435
+  s_e42f0a09ac5073::t_7ddf88fc58f78d 721-726
+  s_e42f0a09ac5073::t_c17daff69b62a0 65
+  s_e42f0a09ac5073::t_7596adda6bacc2 359
+  s_e42f0a09ac5073::t_471448335bc9dd 249-251
+  s_e42f0a09ac5073::t_54ecde1f9d0f44 615
+  s_e42f0a09ac5073::t_b28f97d74edea6 700-702
+  s_e42f0a09ac5073::t_25af2597594390 706
+  s_e42f0a09ac5073::t_9f2920c66a2516 623
+  s_e42f0a09ac5073::t_9e05f07f64b14e 40
+packages/global/test/common/workflow/reference.test.ts
+  s_e42f0a09ac5073::t_0cc7f093efca9c 290
+  s_e42f0a09ac5073::t_d88c3894c4b9f7 7
+  s_e42f0a09ac5073::t_2cf07da607b938 258-289,291-309
+packages/global/common/workflow/reference.ts
+  s_e42f0a09ac5073::t_a53ced605448ba 159-178
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/NodeAgent/useAgentSkillManager.ts
+  s_e42f0a09ac5073::t_8d941c343043d3 254
+  s_e42f0a09ac5073::t_dad8c7640e5c57 91-93,99,101
+  s_e42f0a09ac5073::t_a62ac54b226c65 80-81
+  s_e42f0a09ac5073::t_cb5319a2d7a2fa 17-18
+  s_e42f0a09ac5073::t_90497fceb5bff7 11
+  s_e42f0a09ac5073::t_c5c4002125139c 48-49,53
+  s_e42f0a09ac5073::t_b23cd5a3a16a2d 50-52
+  s_e42f0a09ac5073::t_20723f70b1001e 211-217
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/NodeAgent/utils.ts
+  s_e42f0a09ac5073::t_120dc2c6535713 2-6,10-20
+  s_e42f0a09ac5073::t_cc397e1f5b3499 21
+projects/app/src/pageComponents/app/detail/Edit/FormComponent/ToolSelector/ToolSelectModal.tsx
+  s_e42f0a09ac5073::t_a2ddde27d0029a 373
+  s_e42f0a09ac5073::t_0cc7f093efca9c 393
+  s_e42f0a09ac5073::t_1c96547a493ab1 388
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/ImportSettings.tsx
+  s_e42f0a09ac5073::t_3f0491e8bb1550 59
+projects/app/src/pageComponents/app/detail/Edit/ChatAgent/utils.ts
+  s_e42f0a09ac5073::t_a13f4e37851252 318
+  s_e42f0a09ac5073::t_a0c8cac8bd7644 42
+  s_e42f0a09ac5073::t_56592c190a993e 90
+  s_e42f0a09ac5073::t_55ce262b1f1c24 91
+  s_e42f0a09ac5073::t_471448335bc9dd 458,486
+  s_e42f0a09ac5073::t_44b15f81f75c24 490,495
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "dbdb7b0e157ad55b59c3b4d4d6734414f3369061",
+  "prompts": {},
+  "sessions": {
+    "s_e42f0a09ac5073": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9dc3f44a-653a-4635-8ad4-7aeb604dca2e",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Jon <ljp@sangfor.com.cn>"
+    }
+  }
+}
