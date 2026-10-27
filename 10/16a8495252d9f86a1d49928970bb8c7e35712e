@@ -1,0 +1,19 @@
+document/data/doc-last-modified.json
+  s_e42f0a09ac5073::t_12bdc45fb2eaad 104-105,108-109,114-117,168-169,184-187,218-219,238-239,376-377,520-521
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1016a8495252d9f86a1d49928970bb8c7e35712e",
+  "prompts": {},
+  "sessions": {
+    "s_e42f0a09ac5073": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9dc3f44a-653a-4635-8ad4-7aeb604dca2e",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Jon <ljp@sangfor.com.cn>"
+    }
+  }
+}
