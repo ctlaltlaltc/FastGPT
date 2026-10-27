@@ -1,0 +1,23 @@
+document/content/self-host/custom-models/xinference.mdx
+  s_e42f0a09ac5073::t_6ad787e6fc7d09 16-17,31,46,54,58,60,83,87,97,103
+document/content/self-host/troubleshooting/faq.mdx
+  s_e42f0a09ac5073::t_9bd52bfb11acf3 147
+document/data/doc-last-modified.json
+  s_e42f0a09ac5073::t_9ebb587436145a 184-185,219,239,376-377
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "28f0aa981c53ce7cdcdf13c0de1ad4e14fe73df1",
+  "prompts": {},
+  "sessions": {
+    "s_e42f0a09ac5073": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9dc3f44a-653a-4635-8ad4-7aeb604dca2e",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Jon <ljp@sangfor.com.cn>"
+    }
+  }
+}
