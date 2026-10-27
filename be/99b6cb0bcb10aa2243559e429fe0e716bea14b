@@ -1,0 +1,28 @@
+projects/app/test/pageComponents/dashboard/agent/utils/appTemplateParse.test.ts
+  s_e42f0a09ac5073::t_61d319263cf17c 7-8
+  s_e42f0a09ac5073::t_d05aeaaf0a459c 687-708,711-722,724-731
+  s_e42f0a09ac5073::t_49d780c9c7e961 709-710
+  s_e42f0a09ac5073::t_714bab07f7cdbd 723
+projects/app/test/pageComponents/app/detail/WorkflowComponents/utils.test.ts
+  s_e42f0a09ac5073::t_e91f0681cec8c6 135-219,221-225
+  s_e42f0a09ac5073::t_a9981d5496f838 220
+projects/app/src/pageComponents/app/detail/WorkflowComponents/utils.ts
+  s_e42f0a09ac5073::t_dcf2e440a9db86 36
+  s_e42f0a09ac5073::t_2c2a4ca45175e3 90-102,104-112
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "be99b6cb0bcb10aa2243559e429fe0e716bea14b",
+  "prompts": {},
+  "sessions": {
+    "s_e42f0a09ac5073": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9dc3f44a-653a-4635-8ad4-7aeb604dca2e",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Jon <ljp@sangfor.com.cn>"
+    }
+  }
+}
