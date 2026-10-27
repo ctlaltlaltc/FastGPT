@@ -1,0 +1,20 @@
+projects/app/test/pageComponents/app/detail/WorkflowComponents/Flow/nodes/NodeAgent/index.test.ts
+  s_e42f0a09ac5073::t_4624a6f8002f29 114-116,129-134,195
+  s_e42f0a09ac5073::t_de13638a346e1a 1-113,117-128,135-194,196-237
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "01aa2ca75e66137fa0dd9d0b1427eaecd567807f",
+  "prompts": {},
+  "sessions": {
+    "s_e42f0a09ac5073": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9dc3f44a-653a-4635-8ad4-7aeb604dca2e",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Jon <ljp@sangfor.com.cn>"
+    }
+  }
+}
