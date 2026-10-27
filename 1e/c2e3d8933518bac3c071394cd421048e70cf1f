@@ -1,0 +1,1858 @@
+projects/app/test/api/core/dataset/collection/resumeInheritPermission.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-124
+projects/app/test/components/core/chat/ChatContainer/ChatBox/components/AIChatBubble/Content.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,6,29-69,71-91,113-131,133
+  s_e42f0a09ac5073::t_beda46eaf03ff8 132,134
+packages/workflow-core/src/command/applyChangeSet.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,49,83
+.agents/design/core/app/app-resource-permission.md
+  s_e42f0a09ac5073::t_e892557922d87b 163
+packages/dal/redis/caches/lease.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,4,6-8,13-56,81-87,91-92,113-122,132,169-357,359-367,444,458,463,489,502,508,534,536
+packages/workflow-core/src/edge/parser.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,16,33,45,53
+projects/app/src/pageComponents/dataset/detail/CollectionCard/TagCommon.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 21-22,54-57
+projects/app/src/pages/api/core/dataset/exportAll.ts
+  s_e42f0a09ac5073::t_e892557922d87b 5,13-14,45,52-56,62-67,72-75
+projects/app/src/components/core/app/FileSelector/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 56,201-202
+projects/app/src/web/support/user/team/operantionLog/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,9
+packages/service/core/app/schema.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,34-37,158-161,187
+packages/global/common/workflow/connection.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-96
+packages/service/core/workflow/dispatch/tools/runUpdateVar.ts
+  s_e42f0a09ac5073::t_e892557922d87b 77
+.agents/design/bug/loop-run-interactive-resume-fix.md
+  s_e42f0a09ac5073::t_e892557922d87b 62
+packages/global/core/workflow/template/system/interactive/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 184
+packages/workflow-core/src/node/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,21,79,92-96,102
+projects/app/src/components/core/chat/ChatContainer/ChatBox/hooks/useChatGenerate.ts
+  s_e42f0a09ac5073::t_e892557922d87b 48,76,96,138-139,145,209,419-432,435-440,442-443,528-536,613-614,668,698,754-761,763-764,809,836-837
+packages/service/test/core/chat/controller.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 208,253,257-259
+packages/service/test/core/workflow/dispatch/interactive/userSelect.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 8-43
+.agents/design/core/dataset/synonym-feature-design.md
+  s_e42f0a09ac5073::t_e892557922d87b 11-12,113-171,184
+packages/global/core/dataset/audit/constants/config.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-47
+packages/web/components/common/Textarea/PromptEditor/plugins/SkillPickerPlugin/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 34
+packages/web/i18n/ko-KR/account_team.json
+  s_e42f0a09ac5073::t_e892557922d87b 54-58,62-76,116,201-205,208,229,254-257
+packages/web/i18n/zh-Hant/common.json
+  s_e42f0a09ac5073::t_e892557922d87b 472,938,995,1390,1392
+packages/workflow-core/src/command/mergeChangeSet.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,11,14,103,112,139,219
+projects/app/package.json
+  s_e42f0a09ac5073::t_e892557922d87b 3,61,127
+.agents/skills/system/pr-review/style/front.md
+  s_e42f0a09ac5073::t_e892557922d87b 10,88-89
+projects/app/src/migration/startup.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-23
+projects/app/src/pages/api/core/dataset/collection/listV2.ts
+  s_e42f0a09ac5073::t_e892557922d87b 9,54-59,163-168,189-190,192-205,223-228,234-297,347,352-354,388,391-394,458,464-467
+projects/app/src/pages/api/core/dataset/collection/resumeInheritPermission.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11-13,21,28-32,43-55
+  s_e42f0a09ac5073::t_1a95606f02c9d4 56-57
+packages/service/test/core/workflow/dispatch/ai/agentLoopCore/output/result.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 151
+projects/app/src/pageComponents/model/submit.ts
+  s_e42f0a09ac5073::t_e892557922d87b 29,41,47,61-62
+packages/service/test/core/workflow/dispatch/ai/classifyQuestion.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,58-94
+  s_e42f0a09ac5073::t_0bebe1907bbc22 95
+packages/global/openapi/core/chat/completion/examples.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-616
+packages/service/test/core/app/httpTool/request.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4
+packages/service/core/chat/saveChat.ts
+  s_e42f0a09ac5073::t_e892557922d87b 733-736,763,791-796
+  s_e42f0a09ac5073::t_d78c281ee2d09c 797
+packages/service/test/common/vectorDB/pg/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,40-42,50-92
+  s_e42f0a09ac5073::t_cfe9959abc7a38 93-94
+packages/service/test/core/ai/llm/agentLoop/baseLoop.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1114
+packages/service/test/support/permission/collection/enableCollectionPermissions.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,273-343
+  s_e42f0a09ac5073::t_eeaef707b7b0bd 344-345
+packages/web/components/common/DndDrag/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 54-57,65,75-76,88-90,106-110
+projects/app/src/pageComponents/dataset/detail/CollectionCard/TagValueInputs.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 42-43,145-146,152,158,417-418,427,495-638,649,655,668-674,722
+packages/workflow-core/src/io/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,44,50,82,91,110,116,157-162,171-176
+projects/app/src/pageComponents/model/ReplaceInvalidModelsModal.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1-188
+projects/app/src/pages/dashboard/skill/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 83-86,243,251
+packages/global/openapi/core/chat/outLink/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 9-14
+packages/web/support/user/audit/constants.ts
+  s_e42f0a09ac5073::t_e892557922d87b 217-226,359-398,500-549
+document/content/self-host/custom-models/xinference.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 136
+  s_e42f0a09ac5073::t_06e8757d732b15 16-17,31,46,54,58,60,83,87,97,103
+packages/service/core/ai/auxiliaryGeneration/stream.ts
+  s_e42f0a09ac5073::t_e892557922d87b 30,98-99
+packages/workflow-cli/src/commands/changeSet.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,98,160,172,189,197,204
+projects/app/src/pageComponents/account/team/Audit/processors/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,4-5,7-12,15-37
+projects/app/src/components/core/chat/components/AIResponseBox/RenderSkill.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 13-20,24-26,28-43,45-47,53-65
+projects/app/src/components/support/permission/MemberManager/MemberModal.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 69
+projects/app/src/pageComponents/model/ModelPriceTiersTable.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 3,98-99,106,127,130,133,270,335-372
+projects/app/src/web/core/dataset/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 34,44-47,82
+projects/app/test/api/core/dataset/list.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 203,212,220-221,448,459-571
+  s_e42f0a09ac5073::t_5bd396a35b809c 572-573
+.agents/code/syntax.md
+  s_e42f0a09ac5073::t_e892557922d87b 93-117
+packages/global/test/support/permission/chat.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3-4,8,15,23,28-29,32,37-38,41-50,55-56,59,65,69,74-79,82-84,88,104-113,116-117,120,125
+packages/global/openapi/core/ai/model/channel/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,150
+packages/web/hooks/usePagination.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 60
+packages/service/core/dataset/audit/training.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-32
+packages/global/openapi/core/plugin/marketplace/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,28,180
+packages/service/test/common/api/pagination.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2-5,9-19,21-24,26,28-41,45-68
+packages/workflow-core/test/config/service.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,282,322,341
+packages/workflow-core/test/domain/diagnostic.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-65
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/Loop/NodeLoopRun.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 114,128,157,208
+projects/app/src/pages/api/core/dataset/list.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1
+packages/global/common/error/code/app.ts
+  s_e42f0a09ac5073::t_e892557922d87b 10-11,38-42
+projects/app/test/api/core/dataset/update.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,11,14-15,30,502-597,771-1218
+projects/app/test/pageComponents/app/detail/WorkflowComponents/context/workflowInitContext.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,13,62-112
+  s_e42f0a09ac5073::t_83eca790f6f2f5 113-114
+projects/app/test/pages/account/model/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-54
+projects/app/test/service/core/ai/model/invalidReferences/service.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-1213
+packages/global/openapi/core/dataset/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 5-6,17,23-27,212,231,249,252,255,262-288,322-324,585-587,589-597,599-601,603-723,728,732,735-736,742,748
+projects/app/test/web/common/system/migrations/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 7,60-61
+sdk/sandbox-adapter/src/utils/files.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1
+projects/app/test/api/core/chat/record/delete.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 129-185
+packages/global/core/workflow/runtime/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 13-17,26-42,187-188,190,198-206
+projects/app/src/pageComponents/app/detail/Edit/HTTPTools/AppCard.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 9,27-29,31-43
+packages/web/i18n/en/account_inform.json
+  s_e42f0a09ac5073::t_e892557922d87b 2
+projects/app/test/api/core/app/resumeInheritPermission.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 10-11,14-16,38-45,130-143
+  s_e42f0a09ac5073::t_91b5fbebd46d73 144
+projects/app/src/components/core/chat/components/AIResponseBox/RenderReasoningContent.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 16-22,49-50,54-103,105-118
+packages/service/test/core/dataset/search/defaultRecall.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 539,550,584,587,590,593,599,601-602,604-606
+projects/volume-manager/Dockerfile
+  s_e42f0a09ac5073::t_e892557922d87b 4,25
+packages/global/openapi/admin/system/migrations/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 15,51-53
+projects/app/test/pageComponents/app/detail/WorkflowComponents/Flow/nodes/NodeIfElse/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 23-32
+projects/app/src/components/core/chat/ChatContainer/ChatBox/components/AIChatLoading.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 2-3,5-18
+packages/global/openapi/generation.ts
+  s_e42f0a09ac5073::t_e892557922d87b 17,20-29,32-37
+projects/app/src/pageComponents/dataset/detail/Info/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 24,185-187,189-199
+projects/app/src/components/core/chat/ChatContainer/ChatBox/components/AIChatBubble/Content.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 14,62-69
+packages/service/core/dataset/search/defaultRecall/rerank.ts
+  s_e42f0a09ac5073::t_e892557922d87b 5,10-11,16,21,23,27,64-65,72,88
+document/content/self-host/config/model/intro.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 136-139,155,181,233,251
+projects/app/test/api/core/dataset/folderAncestorIds.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-42
+packages/workflow-core/src/validation/io.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-2,17,21,27-28,33,35,71,97,140,186,201,211,225-231,234,245,258
+packages/global/common/error/code/common.ts
+  s_e42f0a09ac5073::t_e892557922d87b 16-17,65-72
+projects/app/test/components/core/app/TTSSelect.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 95-98
+packages/global/openapi/core/app/folder/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2-6,83-85
+packages/service/test/core/workflow/dispatch/tools/runIfElse.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 415-806
+projects/app/test/integration/applicationFileUpload.integration.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 160
+packages/service/core/workflow/dispatch/dataset/search.ts
+  s_e42f0a09ac5073::t_e892557922d87b 30,415
+packages/web/test/hooks/useToast.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-56
+projects/app/src/pageComponents/chat/ChatSetting/FavouriteAppSetting/AddFavouriteAppModal.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 54
+sdk/storage/test/unit/adapters/minio.adapter.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,10-13
+projects/app/test/migration/tasks/4170/20260903_migrate_legacy_system_models/service.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,11-18,28,54,76-115,263-275
+  s_e42f0a09ac5073::t_87f441f583e988 276-277
+packages/workflow-core/src/reference/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,17,21-22,79,85,92,143,161,175-186,189,202-203,231,247,270,285,310,341-346
+projects/app/src/components/core/chat/ChatContainer/ChatBox/utils/interactive.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,22,30,195,203,217,242,257-258
+projects/app/src/web/core/workflow/check/diagnostic.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-4,16-40,44-67,70-79,82,85-94,97,100,103-149,178,191,200-201,204-206,208-210,213-214,216-219,221-229,237-238,249-250,282-283
+packages/web/i18n/zh-CN/common.json
+  s_e42f0a09ac5073::t_e892557922d87b 472,938,995,1348,1390,1392
+packages/service/core/workflow/dispatch/ai/agentLoopCore/adapter/eventStream/eventDispatcher.ts
+  s_e42f0a09ac5073::t_e892557922d87b 110-113
+packages/service/core/dataset/audit/patch.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-63
+packages/workflow-core/src/domain/document.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,12
+packages/service/core/workflow/dispatch/dataset/toolResponse.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-21
+packages/service/test/core/ai/skill/debugChat/handler.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,163-169
+projects/app/src/components/core/chat/ChatContainer/ChatBox/utils/agentAsk.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-78
+packages/global/test/core/chat/input/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-69
+document/content/toc.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 56,62
+packages/global/openapi/core/ai/sandbox/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3-7,149,156-158
+packages/service/core/dataset/apiDataset/custom/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 21,43-45
+packages/service/core/dataset/audit/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-175
+packages/web/i18n/en/chat.json
+  s_e42f0a09ac5073::t_e892557922d87b 11,34,53,76,207-212,215-220,230
+packages/web/i18n/zh-Hant/admin.json
+  s_e42f0a09ac5073::t_e892557922d87b 49-52
+packages/workflow-core/src/nesting/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,18,50-54,59-63,73,83,96,109,118-122
+packages/web/i18n/zh-Hant/file.json
+  s_e42f0a09ac5073::t_e892557922d87b 20-21
+document/content/guide/dataset/collection_tags.en.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 3,6-7,9-12,14,16-19,21,23,25-27,29,31-173,178-182,185-188,192-227,229
+packages/global/openapi/core/app/toolSet/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,11-18,20
+packages/service/test/core/dataset/apiDataset/custom/api.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 6,12-15,42-72
+  s_e42f0a09ac5073::t_e48351d4c40343 73-74
+projects/app/Dockerfile
+  s_e42f0a09ac5073::t_e892557922d87b 2,26,57
+projects/app/src/components/core/chat/components/AIResponseBox/RenderChatAgentBuilderVersion.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1-51
+projects/app/src/migration/tasks/4170/20260903_migrate_legacy_system_models/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,4,6-11,42-43,56,92,103
+projects/app/src/pageComponents/account/team/Audit/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 3,9-12,22,24,31,33,36,58-59,150-154
+projects/app/src/pageComponents/app/detail/WorkflowComponents/context/workflowActionsContext.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 41,60,442,502,505-511,538,543-548
+packages/global/core/ai/auxiliaryGeneration/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 58-62
+projects/app/src/pages/api/core/dataset/update.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,9,21-23,37,95,100,146-180,215,247-265
+projects/app/test/api/core/ai/model/updateWithJson.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,93-94,96-98,104-108,111,115,119-124,127,132,135-138,141,147-150,152,156-188,244-245,257,260,276,285,287
+projects/app/test/components/core/ai/PriceTiersLabel.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-88
+document/content/guide/build/workflow/rules.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 1-141
+projects/app/test/pageComponents/account/team/Audit/dataset/audit.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-76
+projects/app/test/web/common/api/fetch.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,27-47
+packages/service/core/dataset/synonym/rerank.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-125
+document/content/guide/dataset/collection_tags.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 3,6-7,9-11,13,15,17,19,21,23,25-185,190-194,197-200,204-239,241
+packages/global/core/ai/llm/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 6,103-109,111
+.agents/design/core/ai/model-token-price-unit.md
+  s_e42f0a09ac5073::t_e892557922d87b 1-47
+.agents/skills/system/system-migration-development/SKILL.md
+  s_e42f0a09ac5073::t_e892557922d87b 3,10,16-17,32,44,60,71-72,75,81,85,153,155,157-167,181-182,204,222-225,235,252,256-258
+packages/global/openapi/core/ai/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,75
+packages/service/core/dataset/search/defaultRecall/constant.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11-12
+packages/service/core/workflow/dispatch/ai/agentLoopCore/adapter/interactive/ask.ts
+  s_e42f0a09ac5073::t_e892557922d87b 18
+packages/service/test/core/chat/saveChat.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 10-12,328-371,882-921,1341,1353,1356-1366,1387-1388,1392-1405,1413-1434,1436-1453,1455-1461,1464-1478,1481-1485,1487-1510,1512
+packages/service/core/workflow/dispatch/ai/agent/sub/dataset/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 36,63
+packages/web/i18n/en/dashboard_evaluation.json
+  s_e42f0a09ac5073::t_e892557922d87b 2
+packages/web/i18n/ko-KR/file.json
+  s_e42f0a09ac5073::t_e892557922d87b 20-21
+packages/workflow-cli/test/e2e.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,132,440,451,763-771
+projects/app/.env.template
+  s_e42f0a09ac5073::t_e892557922d87b 50
+packages/global/openapi/core/chat/controler/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,14-23
+projects/app/src/migration/entity.ts
+  s_e42f0a09ac5073::t_e892557922d87b 95,158-159,166-167,172,183-185,214,219-220,223,228-233,413,521
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/render/Handle/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 46-57,63,70-71,74,96,98,101-105,124-129,134,136-150,164,173,175,179-184,189-195
+packages/global/common/parentFolder/visibleChildren.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-83
+projects/app/src/components/core/ai/PriceTiersLabel.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 5,18,169,186,202,212,260,271
+packages/workflow-cli/src/commands/document.ts
+  s_e42f0a09ac5073::t_e892557922d87b 63,120
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/components/NodeTemplates/useNodeTemplates.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 68
+packages/service/test/common/mongo/schemaIndexes.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4-5,68-75
+  s_e42f0a09ac5073::t_aee8472de2aebc 76-77
+packages/workflow-core/src/node/removal.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,30,43
+packages/global/openapi/admin/wallet/pay/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,33
+packages/global/openapi/support/wallet/usage/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 6,85
+packages/workflow-core/test/node/removal.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,24,75
+projects/app/src/pageComponents/apidoc/CompletionEventExamples.module.scss
+  s_e42f0a09ac5073::t_e892557922d87b 1-122
+projects/app/src/pageComponents/app/detail/WorkflowComponents/WorkflowBuilder/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2-59
+packages/web/i18n/en/dataset.json
+  s_e42f0a09ac5073::t_e892557922d87b 7,45-46,85-86,88,97,144,191,193-195
+projects/app/src/pages/api/core/app/logs/getUsers.ts
+  s_e42f0a09ac5073::t_e892557922d87b 21,41,45-46
+packages/web/i18n/en/common.json
+  s_e42f0a09ac5073::t_e892557922d87b 472,713,729,792,913,922,928,938,995,1057,1059,1253,1392
+projects/app/src/pages/api/core/app/toolSet/listV2.ts
+  s_e42f0a09ac5073::t_e892557922d87b 13,25-27
+projects/app/src/pages/api/core/dataset/folder/create.ts
+  s_e42f0a09ac5073::t_e892557922d87b 21,27,53-62,67
+projects/app/src/pages/api/core/dataset/paths.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3-9,18-25,32,34-38,43-50,52-60,62-74,77-82,84-114,116-134
+projects/app/src/pageComponents/app/detail/Edit/ChatAgent/hooks/useSkillManager.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 46,317,319
+projects/app/src/web/common/api/fetch.ts
+  s_e42f0a09ac5073::t_e892557922d87b 238-239
+packages/global/openapi/admin/user/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,11-13,25,29-33,39-47
+projects/app/src/pages/api/core/app/resumeInheritPermission.ts
+  s_e42f0a09ac5073::t_e892557922d87b 12-13,30,37-38,57-66
+  s_e42f0a09ac5073::t_a36f3e8781073f 67
+packages/service/core/ai/sandbox/application/lease.ts
+  s_e42f0a09ac5073::t_e892557922d87b 14
+projects/app/src/web/core/chat/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-15
+projects/app/src/web/core/workflow/check/message.ts
+  s_e42f0a09ac5073::t_21046d43c2d3d5 209,211,213,215,217,219,221
+  s_e42f0a09ac5073::t_e892557922d87b 1,32-82,104,110-119,123-131,137-139,148,152-154,165,167,169,171,173,175,177,179,181,183,185,187,189,191,193,195,197,199,201,203,205,207,240,245-248,257-260
+  s_e42f0a09ac5073::t_e2d2ba252ebdb9 83-103
+projects/app/test/api/core/dataset/exportAll.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-235
+projects/app/test/components/core/chat/ChatContainer/ChatBox/components/AIChatBubble/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 44,57
+test/testRunner.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-2,41-51
+  s_e42f0a09ac5073::t_4ef248f757be53 52-53
+projects/app/test/web/core/workflow/check/model.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,41,51,81,103,116,122,175-176,185,217-222,244-246,275-280,292-294,330,337-339,355-357,359,393-397,426,442,463,488-493,512,551-556,591-599
+packages/global/openapi/core/chat/completion/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,3,79-103,106,110,113-114,137-176
+projects/app/src/components/core/chat/ChatContainer/ChatBox/Provider.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 211-212,237,307,313
+projects/app/src/components/core/chat/ChatContainer/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 15-16,41
+packages/service/core/ai/modelStatus/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 58
+pnpm-workspace.yaml
+  s_e42f0a09ac5073::t_e892557922d87b 38,86,107,110
+projects/app/src/service/core/dataset/data/data.ts
+  s_e42f0a09ac5073::t_e892557922d87b 31,33,222,263-264,365,519,613,677
+packages/service/core/workflow/dispatch/utils/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 317-318,458
+scripts/test/run.mjs
+  s_e42f0a09ac5073::t_e892557922d87b 2,17,104-109
+projects/app/test/components/core/chat/ChatContainer/ChatBox/resume.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11,17,331-418
+packages/workflow-core/test/command/changeSet.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,70-72,91,199,239
+packages/global/core/workflow/type/node.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,327
+packages/service/test/core/workflow/dispatch/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 709-733,775-834
+packages/service/test/core/dataset/synonym/controller.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3-11,30-65
+  s_e42f0a09ac5073::t_ab3018e76b4669 66
+projects/app/src/components/support/user/TeamMemberFilter.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 26-27,34,45,74,77,95,103
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/components/IOTitle.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 25,37-40
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/render/RenderInput/Label.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 28-33,42,53,55,57-60,74-92,141-150,162-163,169,216-217
+projects/app/test/pageComponents/model/ModelPriceTiersTable.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-151
+projects/app/src/pageComponents/dashboard/skill/context.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 64,115,161-180,187-188,190-194,196-200,215-222,236-241,243-245,252-253,256-266,379
+projects/app/test/web/core/ai/model/channel.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-59
+packages/global/openapi/core/app/folder/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 25
+.agents/design/core/skill-edit-chat-source-type.md
+  s_e42f0a09ac5073::t_e892557922d87b 99,114
+projects/app/src/pages/api/core/dataset/collection/update.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11-14,89,96,112-114,118-123
+packages/global/test/core/ai/pricing.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2-3,6,13-36,39-50,52-71,76-79,84,86-90,92,94-139,141-159,163-173,175-182,187-196,198-199
+sdk/sandbox-adapter/src/utils/image.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1
+document/components/sideBar.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 28,34,36,61,87-89
+packages/global/test/core/app/tool/runtime.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 5,391,398,412
+document/source.config.ts
+  s_e42f0a09ac5073::t_e892557922d87b 25
+projects/app/test/components/core/chat/components/AIResponseBox/WorkflowBuilder/RenderWorkflowBuilderPreview.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-63
+packages/global/core/ai/model/schema.ts
+  s_e42f0a09ac5073::t_e892557922d87b 6-14,17-28,30-33,105-108,114-117,123-126,132-135,141-144
+packages/service/test/core/workflow/dispatch/ai/sandbox.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-127
+projects/app/src/web/core/app/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 36,49-52
+projects/app/src/web/core/skill/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 12-14,33,42
+projects/app/test/pageComponents/dashboard/ReferencedAppsPopover.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 39
+projects/app/src/components/core/chat/components/AIResponseBox/useStickyHeaderClip.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-53
+projects/app/test/api/core/app/folderPath.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-135
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/hooks/useWorkflow.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1,945-946,949,957
+packages/service/support/user/lock.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4
+packages/global/openapi/core/ai/model/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 7,22,46,50,59,68,73,78,117,156,169,176,183,189,281
+projects/app/src/migration/plan.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-32
+.agents/skills/system/pr-review/SKILL.md
+  s_e42f0a09ac5073::t_e892557922d87b 3,6,8,10,12,14-18,20,22,24-28,30,32,34-41,44-58,61,63,65,67,69,71,73-80,82,84,86,88,90,92-95,97,99,101,103-107,109,111-113,115,117,119-123,125,127,129,131-136,138,140,142-146,148,150,152,154-157,159,161,163,166-167,169-170,172-173,175-176,178-179,181-182,184-185,187-188,190-191,194-196,198
+packages/web/i18n/ko-KR/admin.json
+  s_e42f0a09ac5073::t_e892557922d87b 49-52
+projects/app/src/migration/mongoSchema.ts
+  s_e42f0a09ac5073::t_e892557922d87b 17
+packages/global/openapi/core/app/evaluation/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 5,134,179
+packages/workflow-core/src/reference/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,17
+projects/app/src/pageComponents/account/team/Audit/processors/teamProcessors.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,5-7,13
+packages/global/openapi/admin/system/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 47-51
+packages/dal/vitest.config.ts
+  s_e42f0a09ac5073::t_e892557922d87b 7
+projects/app/src/pages/api/core/ai/skill/listV2.ts
+  s_e42f0a09ac5073::t_e892557922d87b 6-7,17,19-22,24-54,56,60
+packages/service/core/ai/sandbox/application/runtime/entrypoint.ts
+  s_e42f0a09ac5073::t_e892557922d87b 30
+packages/service/common/api/httpError.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-50
+projects/app/src/service/support/permission/auth/chatCompletion.ts
+  s_e42f0a09ac5073::t_e892557922d87b 23,51-61,63-64,66-67,69-76
+projects/app/src/pageComponents/dataset/list/context.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 47,113,163-170,175,180-181,183-187,203-209,222-246,271
+document/content/openapi/dataset.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 104,153,163,214-230,594,598,772
+packages/global/openapi/core/app/common/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2-3,23-27,313,337,366,369,377-403,429-432
+packages/service/common/vectorDB/opengauss/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 139-142,146-147,152
+packages/workflow-core/test/validation/model.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,66,80,90,119-139,144-145,176,178-182,187,223,233,295,299,306-307
+projects/app/src/pageComponents/app/detail/PublishHistoriesSlider.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 203
+packages/service/test/core/app/resource/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 17-26,30-34,249-288
+  s_e42f0a09ac5073::t_d9d2e6f6043622 289-290
+packages/web/i18n/en/file.json
+  s_e42f0a09ac5073::t_e892557922d87b 6,20-21
+projects/app/src/pageComponents/chat/ChatSetting/HomepageSetting/AddQuickAppModal.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 57
+packages/workflow-core/test/command/codeIo.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,93
+projects/app/src/web/core/workflow/check/document.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,61
+projects/app/src/pageComponents/model/ModelDashboard/DataTableComponent.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 11,13,33-35,166,236,366
+packages/global/core/dataset/audit/constants/event.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-25
+document/content/guide/chat/htmlRendering.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 2-3
+packages/service/core/ai/model/catalog/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 116
+packages/workflow-core/test/edge/compiler.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3-7,15-30
+  s_e42f0a09ac5073::t_541e04f3bc196b 31
+packages/service/test/core/dataset/synonym/searchResult.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-219
+packages/service/test/support/permission/resourcePermissionPolicy.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 13-14,42-47
+  s_e42f0a09ac5073::t_0e7ad82a6a7d4a 48-50
+packages/workflow-core/src/template/inputValue.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-25
+projects/app/test/api/core/dataset/resumeInheritPermission.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 10-12,14-16,19-22,42-49,135-174,176
+  s_e42f0a09ac5073::t_c0901cd4578eb6 175
+packages/service/core/chat/controller.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-5,7,17,78,87-96
+projects/app/src/components/core/dataset/DatasetTagFilterRows.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1,27,33,44,72-73,90,162-163,223-228,233,239,246-248,271-272,291,301,312,338,358,360,362,380-386,414-427,436-437,444-445,456-466,469,471-484,488,491-497,512-513,515-516,519,521,524,526,528-534,536,538,540-543,547,552-555,558-567,571-707,710-729,731-767
+projects/app/src/components/core/chat/components/AIResponseBox/WorkflowBuilder/WorkflowBuilderPreviewComposer.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1-77
+projects/app/src/components/core/dataset/SearchParamsTip.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 5-7,11-14,22-24,33-34,44-49,53,56,70,78,87,97-99,102,112,115-128
+packages/service/test/support/user/audit/util.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,4-5,32-46,83-171
+.agents/skills/system/pr-review/style/service-decoupling.md
+  s_e42f0a09ac5073::t_e892557922d87b 9-10
+packages/service/support/user/audit/util.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11-14,16,18,25-26,33,95,104-109,112,119,134,138
+packages/global/openapi/support/user/inform/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11,79
+document/content/guide/chat/htmlRendering.en.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 2-3,16-17
+packages/service/test/core/ai/llm/agentLoop/application/run.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 404-416
+projects/app/src/pageComponents/admin/users/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 20-21,25-30,35-41,44,48-50,53-59,71-73,75,106-111,140,145-181
+projects/app/src/pageComponents/dashboard/ReferencedAppsPopover.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 26-30,45-58,97-118,153-183
+projects/app/src/web/common/system/migrations/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 16
+packages/global/migration/schema.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,137,140-145,194
+packages/global/core/dataset/apiDataset/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,17-18,21
+packages/service/test/common/system/tools.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 61,90,114,125
+packages/workflow-core/package.json
+  s_e42f0a09ac5073::t_e892557922d87b 75-78
+packages/service/test/core/ai/auxiliaryGeneration/service.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-84
+projects/app/src/web/core/workflow/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,27
+projects/app/src/pageComponents/price/Points.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 9,84,112,114,138,140,165
+projects/app/test/api/core/dataset/listV2.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-248
+projects/app/test/components/core/chat/components/AIResponseBox/useStickyHeaderClip.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-147
+packages/web/core/workflow/template/bundle.ts
+  s_e42f0a09ac5073::t_e892557922d87b 45-49
+projects/app/test/pageComponents/chat/ChatWindow/AppChatWindow.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 110
+projects/app/test/web/core/chat/context/chatContextDraft.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 68
+packages/global/openapi/core/chat/record/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,75,136-137
+.agents/design/core/ai/admin-model-template-installation.md
+  s_e42f0a09ac5073::t_e892557922d87b 151-153,155,157
+document/content/guide/build/workflow/meta.en.json
+  s_e42f0a09ac5073::t_e892557922d87b 4
+packages/workflow-core/test/store/roundtrip.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 29
+packages/dal/test/redis/caches/lease.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,10-23,48,79,100,115,119,131,147,171,207,244,281,309,338,353,366,391,402,424-897
+  s_e42f0a09ac5073::t_828d401ce5ad3e 898-899
+projects/app/src/migration/constants.ts
+  s_e42f0a09ac5073::t_e892557922d87b 15-17,20
+document/content/guide/build/workflow/meta.json
+  s_e42f0a09ac5073::t_e892557922d87b 4
+packages/dal/package.json
+  s_e42f0a09ac5073::t_e892557922d87b 11,26
+projects/app/test/migration/runner.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4-5,7,13-22,25-29,41,47,51-68,70,72-73,75-778,788,821-861,864-865,867-872,876-880,882,884,892,894-895,900,904-909,911-913,917,925,964-965,967,984-985,991-994,1025-1027,1029-1030,1032-1037,1040-1041,1045-1061,1063-1074,1076-1077,1079-1086,1088-1091,1097-1131,1137-1148,1150-1157,1159-1163,1165-1182,1184,1186-1190,1203-1220,1223-1231,1233,1235-1246,1248-1249,1251-1252,1254-1260,1262,1277,1280-1281,1334,1337-1338,1368-1372,1375,1378,1382,1387,1390-1405
+document/lib/source.ts
+  s_e42f0a09ac5073::t_e892557922d87b 17
+packages/global/core/chat/adapt.ts
+  s_e42f0a09ac5073::t_3ce3f7f8873c5a 543
+  s_e42f0a09ac5073::t_f3aab6c80adfed 537,539-542
+  s_e42f0a09ac5073::t_e892557922d87b 23,264-265,271-272,334,346-351,353-354,356-360,399-405,658-659,830-832
+  s_e42f0a09ac5073::t_569b0717b1bf99 406-407
+projects/app/src/pageComponents/app/detail/WorkflowComponents/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 50,128-129
+packages/dal/test/integrations/redis/lease.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-194
+projects/app/src/components/core/chat/components/AIResponseBox/RenderProcessingCollapse.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 13-20,39-40,46-49,51-68,128-148
+packages/workflow-core/src/nesting/query.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,12-16
+projects/app/src/components/core/chat/ChatAgentHelper/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-15
+projects/app/src/pageComponents/dashboard/ResourceListCard.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1-100
+projects/app/test/migration/tasks/4170/20260903_migrate_legacy_system_models/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2-3,14,22
+projects/app/test/api/core/ai/skill/listV2.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-792
+packages/service/support/permission/collection/enable.ts
+  s_e42f0a09ac5073::t_e892557922d87b 23,152,164-181
+packages/global/test/core/chat/chatUtils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 643-672,675,679-681,690,695-702,718,721-731
+packages/service/test/core/workflow/dispatch/dataset/search.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 133,167-201
+  s_e42f0a09ac5073::t_982b3649fc5c9b 202
+projects/app/src/components/core/ai/ModelListFilters.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 8,20,36-37,89-93
+packages/global/common/string/url.ts
+  s_e42f0a09ac5073::t_e892557922d87b 9-41
+packages/global/openapi/support/user/team/member/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 8,90
+projects/app/src/web/core/chat/context/chatItemContext.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 14,27-31,72,123,182-183,187,282-283,307-308
+packages/web/i18n/zh-Hant/dataset.json
+  s_e42f0a09ac5073::t_e892557922d87b 7,45-46
+.agents/skills/system/pr-review/frontend-quality/react-performance.md
+  s_e42f0a09ac5073::t_e892557922d87b 51,64-65,76
+  s_e42f0a09ac5073::t_1a0dd13cd9bd36 77
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/SelectAppModal.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 45
+projects/app/src/web/core/workflow/check/error.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,20-23,25,30,34-35,41,44
+packages/workflow-cli/test/output.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,36-43,47,50-58
+projects/app/test/api/core/dataset/training/rebuildEmbedding.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 6,14,19,23,25,68-70,125,131-134,137-138,153-154,165-185,240,348
+projects/app/test/migration/tasks/4173/20261022_backfill_folder_ancestor_ids/service.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-107
+projects/app/src/components/core/app/DatasetParamsModal.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 17,23-25,41-42,58-61,66-68,78-94,96,101,111,132,134-174,176,194-203,212-213,215,416,487-501
+document/content/self-host/upgrading/4-17/4173.en.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 17,19-23,28,30-33,37,47-50,73-79,117-129,139-147
+projects/app/test/api/core/chat/history/getHistories.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 274,322,324-326,462,508,511
+packages/service/core/ai/skill/manage/folder.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,7,12-66,159-160,166-169,175,179-180,186-195,200
+projects/app/src/service/common/system/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 153
+projects/app/test/migration/startup.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-83
+packages/global/core/ai/auxiliaryGeneration/chatAgentBuilderVersion.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-14
+packages/global/openapi/core/app/common/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 32,34-35,58-60,71
+packages/web/i18n/ko-KR/workflow.json
+  s_e42f0a09ac5073::t_e892557922d87b 2-3,48-49,69-70,75,339,347,353
+projects/app/src/pageComponents/dataset/detail/CollectionCard/Header.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 3,70-77,249,264
+packages/service/core/chat/delete.ts
+  s_e42f0a09ac5073::t_e892557922d87b 7-24
+packages/service/common/api/pagination.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-5,9-25,33,41-44
+projects/app/test/service/core/dataset/queues/datasetParsePreCreate.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 21,155-168
+  s_e42f0a09ac5073::t_9fedbfd3195c49 169-170
+projects/app/src/pageComponents/app/detail/Edit/MCPTools/AppCard.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 9,27-29,31-43
+projects/app/src/env.ts
+  s_e42f0a09ac5073::t_e892557922d87b 24
+projects/app/src/components/core/chat/ChatContainer/ChatBox/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 13,41
+packages/global/test/openapi/core/dataset.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,13-14,26-30,45-123,125-134,163-167,169
+projects/app/test/pageComponents/app/detail/Edit/SimpleApp/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 181,183,185,190-202,204-205
+projects/mcp_server/Dockerfile
+  s_e42f0a09ac5073::t_e892557922d87b 2,33,56
+packages/web/test/components/common/Markdown/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 5-7,129-197
+tasks/todo.md
+  s_e42f0a09ac5073::t_e892557922d87b 1-319
+packages/web/i18n/zh-CN/dataset.json
+  s_e42f0a09ac5073::t_e892557922d87b 7,45-46
+packages/global/core/ai/constants.ts
+  s_e42f0a09ac5073::t_e892557922d87b 35,59,76
+packages/global/core/dataset/search/tagFilter/uiUtils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 6
+packages/global/test/common/parentFolder/tree.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-39
+packages/service/core/ai/model/schema.ts
+  s_e42f0a09ac5073::t_e892557922d87b 43-55
+packages/global/test/common/workflow/connection.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-123
+packages/service/test/common/file/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 201,203
+packages/web/i18n/ko-KR/system_migration.json
+  s_e42f0a09ac5073::t_e892557922d87b 14-17,44,128-138
+projects/app/src/migration/tasks/4170/20260907_cleanup_team_member_roles/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 27,29-30
+packages/service/core/app/resource/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4-5,18-21,25-28,249-258,309-314
+packages/workflow-core/test/command/additionalBuiltins.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,91,114,133,153
+projects/app/src/components/core/chat/components/AIResponseBox/WorkflowBuilder/RenderWorkflowBuilderPreview.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1-29
+packages/global/test/openapi/core/app.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-5,36-44,46-49,51,196-198
+projects/app/src/pageComponents/admin/config/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 200
+packages/global/support/user/audit/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2-34,40-41,56
+projects/app/src/pageComponents/dataset/detail/CollectionCard/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 140-141,151-155,166-167,304-310,397-401,413,490-494,497-498,502-503,524-529,532-543,572-578,580,582-587,596,623,625,636,810
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/NodeHttp/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 773
+projects/app/src/pages/chat/share.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 133-134,171,549
+projects/app/src/web/admin/config/adapt.ts
+  s_e42f0a09ac5073::t_e892557922d87b 89,138
+projects/app/test/migration/tasks/4173/20261025_token_prices_per_million/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-35
+projects/app/test/pageComponents/apidoc/CompletionEventExamples.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-138
+projects/app/test/pages/api/core/dataset/data/v2/list.pagination.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 59,61,67-69,75,77
+projects/app/test/pages/api/core/dataset/searchTest.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 299-337
+projects/app/test/service/core/dataset/data/data.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 444-445,450-489,1215-1266
+  s_e42f0a09ac5073::t_b6be75120f4ecd 1267
+sdk/sandbox-adapter/src/adapters/sealos-devbox/client.ts
+  s_e42f0a09ac5073::t_e892557922d87b 13
+projects/app/test/web/core/chat/context/useChatStore.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 45,347,384
+projects/app/src/components/core/chat/ChatContainer/ChatBox/hooks/useChatResume.ts
+  s_e42f0a09ac5073::t_e892557922d87b 32,39
+packages/workflow-core/src/edge/validation.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,3-4,10-15,22-29,70,76-85,93-187,189-196,198-263,267-279,282-286,291,298,307-311,316-320,329,337-341,347,353-473,476-487,495-500
+document/Dockerfile
+  s_e42f0a09ac5073::t_e892557922d87b 1,33-34
+projects/app/src/web/core/chat/context/chatRecordContext.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 92-97,107,123
+projects/app/test/migration/registry.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 16-19,27-36,39-50,52-58,63-74,77-89,92,95,97,100-112,146,149-151,153,156-166
+packages/global/test/core/workflow/runtime/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3-4,49-108,840-841,843-844,848,851,855,859-877,921,923,929-939,961,968,970-971,973-975,978-1013
+packages/global/test/openapi/core/chat/completion/examples.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-165
+packages/service/test/core/workflow/dispatch/ai/agentLoopCore/eventStream/createEventStream.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 175,199,201-204,208-209,211,215
+packages/service/test/core/ai/model/catalog/service.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,129,132,140-141,148-150
+projects/app/src/pageComponents/app/detail/WorkflowComponents/adapters/command.ts
+  s_e42f0a09ac5073::t_e892557922d87b 7,45,49,54-59,61-63
+packages/workflow-core/test/binding/service.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,50,82,114
+projects/app/src/pages/api/core/app/listV2.ts
+  s_e42f0a09ac5073::t_e892557922d87b 8,10-11,17,39-41,43,45-53,55-58,60-63,91-157,160-173,175-262,313-316
+projects/app/src/web/core/chat/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 6,89,105-112,126,186,223,234-260
+packages/service/core/dataset/schema.ts
+  s_e42f0a09ac5073::t_e892557922d87b 65-68,188-191
+projects/app/test/components/core/chat/ChatContainer/ChatBox/agentAsk.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-158
+projects/app/test/components/core/chat/ChatContainer/ChatBox/components/InteractiveReply.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-50
+packages/global/core/chat/input/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-18
+.agents/skills/system/pr-review/references/publishing.md
+  s_e42f0a09ac5073::t_e892557922d87b 1-42
+projects/app/src/pageComponents/dataset/list/List.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 29,74-76,186,192,204-211,276-285,287-302,311,455,536,539,542-544
+projects/app/test/api/core/dataset/training/getDatasetTrainingError.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 10,194-247
+projects/app/src/service/core/app/move.ts
+  s_e42f0a09ac5073::t_e892557922d87b 21-26,110-145,150-151,156,206-207,213
+packages/global/core/workflow/migration/legacy/systemConfig.ts
+  s_e42f0a09ac5073::t_e892557922d87b 22
+packages/workflow-core/test/reference/validation.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-368
+projects/app/src/components/core/chat/ChatContainer/ChatBox/hooks/useQuestionGuide.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,36
+projects/app/src/service/core/app/referencedApps.ts
+  s_e42f0a09ac5073::t_e892557922d87b 71,83-87,89-91
+packages/web/components/common/MyLoading/DotLoading.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1-66
+projects/app/src/components/core/chat/ChatContainer/ChatBox/components/InteractiveReply.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1-64
+packages/global/openapi/reference.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,16-73,184-233,243,245-247,251-263
+projects/app/src/service/core/dataset/queues/generateRebuildSynonym.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,11
+projects/app/test/api/core/ai/skill/resumeInheritPermission.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 9-10,14-16,39-46,134-147
+  s_e42f0a09ac5073::t_50586b70120ac5 148
+projects/app/test/api/core/dataset/paths.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-9,11-20,29-36,39-46,48-51,54-62,64-66,68-75,78,83-90,92,97,99-140,142-169,171-208
+projects/app/test/pageComponents/dashboard/resourceListRefresh.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-208
+projects/app/src/pageComponents/app/detail/Edit/FormComponent/ToolSelector/hooks/useSkillSelectData.ts
+  s_e42f0a09ac5073::t_e892557922d87b 31,33,35
+tasks/plan.md
+  s_e42f0a09ac5073::t_e892557922d87b 1-97
+packages/service/core/workflow/dispatch/ai/agentLoopCore/application/run.ts
+  s_e42f0a09ac5073::t_e892557922d87b 8
+projects/app/src/pages/api/core/app/list.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1
+packages/web/hooks/useTableMultipleSelect.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 17-18,91-96,109
+packages/service/core/dataset/search/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 8,73-85
+projects/app/src/components/core/dataset/SelectModal.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 81-82,84
+projects/app/src/web/core/chat/context/chatContext.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 102,104
+projects/app/test/pageComponents/app/detail/WorkflowComponents/Flow/nodes/render/Handle/useNodeHandleLayout.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-83
+projects/app/test/web/admin/config/adapt.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 60-74
+projects/app/src/migration/tasks/4173/20261025_token_prices_per_million/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-86
+packages/global/test/common/parentFolder/visibleChildren.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-69
+packages/global/test/openapi/core/ai.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 174
+packages/web/components/common/Markdown/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 39-47,57-58,100,135-137,148,172,176-178,184-189
+packages/global/core/chat/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 26-27,181-185,254
+projects/app/src/components/core/app/DraggableInputList.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 31-32,52-53,68-69
+packages/service/worker/readFile/utils/pdf/pdfTextPostprocess.ts
+  s_e42f0a09ac5073::t_e892557922d87b 15-20,164-166,358-359
+projects/app/src/components/core/chat/ChatAgentHelper/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1-2,12,17,37,101-111,134,172,209-230,237
+projects/app/src/pageComponents/app/detail/Edit/ChatAgent/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 436,453,459-462
+  s_e42f0a09ac5073::t_7590e82b5f513b 456,488
+packages/workflow-core/src/validation/model.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,27,33-34,69-73,78,101,150-151
+projects/app/test/pageComponents/app/detail/WorkflowComponents/Flow/nodes/render/Handle/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-500
+packages/workflow-cli/src/commands/validate.ts
+  s_e42f0a09ac5073::t_e892557922d87b 16
+packages/web/i18n/zh-Hant/workflow.json
+  s_e42f0a09ac5073::t_e892557922d87b 2-3,69-70,90-91,96,363,371,377
+projects/app/test/web/core/workflow/check/message.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-4,21-35,42-50
+projects/app/src/components/core/ai/ModelTable/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 6,52-53,58,141-152
+projects/app/test/components/core/app/DatasetParamsModal.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 9-10,63-80,116-117,412-438
+  s_e42f0a09ac5073::t_a9403435aa2f81 439
+projects/app/src/service/core/dataset/collection/archive.ts
+  s_e42f0a09ac5073::t_e892557922d87b 31
+projects/app/src/pageComponents/app/detail/Edit/SimpleApp/EditForm.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 39,80,82-85,382-383,551-553
+projects/app/src/components/Markdown/components/A.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 26,28
+packages/global/openapi/core/ai/sandbox/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,110
+projects/app/src/pageComponents/model/AddModel.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 80
+packages/web/i18n/zh-CN/app.json
+  s_e42f0a09ac5073::t_e892557922d87b 615-618
+packages/global/test/openapi/core/chat/targetSchema.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 29-36,143,150-154,160-161,167-168,174-175,180-184,187-240,446-450,452,478,489-493,532-533,544-548,551,561,571-575,588-592,596-604,617
+packages/service/test/core/chat/auth.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,507-546
+  s_e42f0a09ac5073::t_9f8db01fa027e5 547
+packages/service/test/support/permission/publish/authChat.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 112,116,119
+packages/service/test/core/workflow/dispatch/ai/agentLoopCore/interactive/ask.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,44,51,60-61,64-73
+.agents/test/workflow/connection-rules.md
+  s_e42f0a09ac5073::t_e892557922d87b 1-275
+packages/global/openapi/core/dataset/collection/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,26,30,90,95-104,106-107,143,174-178
+packages/global/test/openapi/admin/wallet/invoice.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 36,38,40
+packages/service/test/core/workflow/dispatch/ai/toolcall/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,10,143,186-241,486-489,497-500,527-531
+packages/web/i18n/zh-CN/config_model.json
+  s_e42f0a09ac5073::t_e892557922d87b 136-137,275-297
+packages/web/i18n/zh-CN/file.json
+  s_e42f0a09ac5073::t_e892557922d87b 20-21
+packages/service/core/workflow/dispatch/tools/http468.ts
+  s_e42f0a09ac5073::t_e892557922d87b 88,313,315,317
+packages/service/test/worker/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 6,23,232-320,851-989
+  s_e42f0a09ac5073::t_c619a9a0d30a3f 990
+projects/app/src/components/Markdown/components/CodeLight.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 368-369
+packages/service/support/permission/collection/moveAuth.ts
+  s_e42f0a09ac5073::t_e892557922d87b 29-32,162,166-168
+packages/service/test/core/dataset/audit/training.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-37
+packages/web/i18n/en/system_migration.json
+  s_e42f0a09ac5073::t_e892557922d87b 14-17,44,128-138
+projects/app/test/migration/tasks/4173/20261022_backfill_folder_ancestor_ids/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-142
+packages/service/core/dataset/collection/controller.ts
+  s_e42f0a09ac5073::t_e892557922d87b 740-744
+sdk/storage/src/adapters/minio.adapter.ts
+  s_e42f0a09ac5073::t_e892557922d87b 7
+projects/app/src/pages/api/core/dataset/training/rebuildEmbedding.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,29-31,47,134-158
+  s_e42f0a09ac5073::t_d6af00e87c3a64 159
+projects/app/test/components/core/chat/components/AIResponseBox/RenderChatAgentBuilderVersion.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-98
+packages/service/test/common/vectorDB/controller.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 13-29,51-59,64-65,88-90,136-269,425
+document/content/guide/dataset/collection_tags_legacy.en.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 1-56
+packages/web/i18n/en/publish.json
+  s_e42f0a09ac5073::t_e892557922d87b 34
+projects/app/src/migration/tasks/4173/20261022_backfill_folder_ancestor_ids/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-208
+packages/global/openapi/core/chat/record/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 7,11-16,33,43-50,115,175-176
+packages/global/test/openapi/generation.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 86-123
+packages/service/test/common/parentFolder/ancestorIds.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-114
+packages/service/core/ai/llm/agentLoop/domain/event.ts
+  s_e42f0a09ac5073::t_e892557922d87b 90
+packages/service/worker/readFile/extension/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 8
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/NodeUserSelect.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 19,28,40-41,121,125-136
+projects/app/src/pages/api/core/ai/skill/resumeInheritPermission.ts
+  s_e42f0a09ac5073::t_e892557922d87b 18-19,32,39-42,61-70
+  s_e42f0a09ac5073::t_80e0a466db55e7 71
+projects/app/test/components/support/permission/MemberManager/context.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-206
+.agents/design/common/system-upgrade-manager.md
+  s_e42f0a09ac5073::t_e892557922d87b 11-17,32,37-38,42,44-50,52,54,56,64,77,92-95,116-119,121,132-134,143-144,148,166-171,175,207,222,228,247,282-287,290,299,315,319,321-325,334-336,354,357,382,384,386,388,390,392,394,396,398-402,404,406,408,440-441,444,461,512,514,516,520,528,531-532,538,546,553-554,571,576,578,580-586,588,625-642,646,648,657,661-665,676,687-690,696-701
+packages/service/test/common/vectorDB/opengauss/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 9-35
+packages/workflow-core/test/command/apply.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-5,29-71
+packages/service/core/ai/skill/manage/list.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,12,14,22,24,26,39-44,59-125,131,133-155,159,180-196,236,241,245-254,256,260,263-264,267-269,341-407,432-440
+packages/global/support/user/audit/constants.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,50-51,72,131-150
+packages/service/core/ai/model/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,89,93-95,149-154,192
+projects/app/src/components/core/ai/AISettingModal/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 350,372
+projects/app/src/pages/dashboard/tool/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 66-68
+projects/app/src/pageComponents/account/team/Audit/processors/appProcessors.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,4-6,10
+packages/global/openapi/core/ai/skill/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 47-49,60
+packages/global/common/string/tools.ts
+  s_e42f0a09ac5073::t_e892557922d87b 35,37-38
+packages/global/openapi/support/user/team/audit/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4-5,15,24,44
+packages/service/core/workflow/dispatch/ai/agentLoopCore/adapter/eventStream/createEventStream.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,12,121
+  s_e42f0a09ac5073::t_34414efc6e8206 13-14
+projects/app/src/components/core/dataset/TagFilterSelects.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 10,16,41-62,64-74,80-81,83-85,88-90,94-184,187,193,203,211,215-225,227-232,235,241-349,354,359,363-392,395-406
+projects/app/src/components/support/permission/MemberManager/MemberListCard.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 18,24
+packages/service/core/workflow/dispatch/ai/chat/datasetCite.ts
+  s_e42f0a09ac5073::t_e892557922d87b 6,33-37,39-41,48-53,57-59,76-78,83
+projects/app/src/web/core/workflow/check/check.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-4,14,38,42-45,48-50,86-88,90-91,105,110,115,206-217
+projects/app/src/pageComponents/app/detail/Edit/FormComponent/ToolSelector/ToolSelectModal.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 109
+packages/service/test/thirdProvider/sangfor.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 57-74
+packages/global/openapi/admin/system/audit/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 5,15
+packages/global/openapi/core/ai/skill/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 24,26-32,44,47-88,105,428-429
+projects/app/src/components/core/chat/ChatContainer/ChatBox/components/ChatItem.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1,21,24-25,131-133,136,139,141-145,149-150,234,236,239,251-253,263-276,292,294-295
+projects/app/src/migration/tasks/4173/20261022_backfill_folder_ancestor_ids/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-291
+document/package.json
+  s_e42f0a09ac5073::t_e892557922d87b 58
+packages/global/core/ai/skill/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 74
+packages/service/common/vectorDB/pg/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 10-12,167,180-184
+projects/app/src/pageComponents/apidoc/ScalarOpenApiPage.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 4-6,242-266
+projects/app/src/pageComponents/chat/SandboxEditor/components/EditorWorkspace.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 12,166
+packages/service/test/core/app/http.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 135-154,284
+packages/global/openapi/core/ai/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 6,9,101-102
+packages/global/openapi/core/chat/completion/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,69-70,106,148,151-155,202,244,247-251
+projects/app/src/service/core/dataset/synonym/mutation.ts
+  s_e42f0a09ac5073::t_e892557922d87b 57-61
+projects/app/test/api/core/app/move.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,274-387
+  s_e42f0a09ac5073::t_3ff3ef9c56b555 388
+projects/app/test/api/core/dataset/collection/listV2.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3-7,10-12,57-157
+  s_e42f0a09ac5073::t_f817b96f46e68f 158
+projects/app/test/components/core/chat/ChatContainer/ChatBox/components/AIChatBubble/contentTestUtils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 61-69,155,170
+projects/app/src/pages/api/core/app/folder/create.ts
+  s_e42f0a09ac5073::t_e892557922d87b 22,25,28,59-65,70
+document/content/toc.en.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 57,63
+packages/service/worker/countGptMessagesTokens/count.ts
+  s_e42f0a09ac5073::t_e892557922d87b 129-130,139-140
+projects/app/test/migration/service.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-2,7,26,28-30,32,34,40-55,57-68,72,76-84,91-93,101-106,120,189,191,193-194,197-200,202,205,212-219,252,261,275,299
+packages/service/test/core/workflow/dispatch/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 96,99,347-352,643,646-656,664-677,937,947,958-1006
+projects/app/test/migration/tasks/4173/20261025_token_prices_per_million/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-316
+projects/app/src/pageComponents/app/detail/Plugin/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 15,40-48
+.agents/design/core/resource-list-pagination-frontend.md
+  s_e42f0a09ac5073::t_e892557922d87b 10,14-15,19,65-67,156,159-170,209,211,252,264,270,277,283,301
+packages/global/test/common/parentFolder/ancestorIds.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-59
+document/content/guide/dataset/meta.json
+  s_e42f0a09ac5073::t_e892557922d87b 8
+projects/app/test/components/core/dataset/SearchParamsTip.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 53-56,89
+projects/app/test/pageComponents/model/ModelDashboard.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-159
+projects/app/src/components/core/chat/ChatContainer/ChatBox/components/AIChatBubble/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 109,139
+projects/app/test/web/core/app/workflow/templateContext.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 81,97,287
+projects/app/src/components/core/dataset/QuoteItem.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1,87-90,219
+projects/app/src/pageComponents/dataset/ApiDatasetForm.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 16,34-40,195,198-202,205-215
+packages/global/test/core/dataset/apiDataset/type.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-77
+projects/app/src/pages/api/core/dataset/training/getDatasetTrainingError.ts
+  s_e42f0a09ac5073::t_e892557922d87b 36
+packages/service/common/parentFolder/ancestorIds.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-99
+packages/service/core/ai/model/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 12
+packages/service/core/workflow/dispatch/ai/agentLoopCore/adapter/memory/providerState.ts
+  s_e42f0a09ac5073::t_e892557922d87b 29,47
+document/content/self-host/upgrading/4-17/4173.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 17,19-23,28,30-33,47-50,73-79,117-129,139-147
+projects/app/src/components/Select/ModelStatusLabel.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 7,47-57
+projects/app/src/components/support/permission/ChangeOwnerModal/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 30
+packages/global/openapi/support/wallet/bill/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 14,90
+projects/app/test/api/core/app/folderAncestorIds.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-64
+projects/app/test/pageComponents/apidoc/CompletionResponseExamples.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-187
+projects/app/src/web/context/AppShell.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 62-68
+packages/global/core/ai/model/pricing.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-10,14-15,17,20,22-30,32-34,36,41-43,45,47-49,51,53,55-79,82,86,88,93-97,99-106
+packages/service/test/core/workflow/dispatch/ai/agent/sub/dataset.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 121-122,133-184
+projects/app/src/web/core/dataset/context/datasetPageContext.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 3,5,11-14,32-38,65-67,78-80,159-176,186-187
+packages/global/core/ai/prompt/synonymQuote.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-39
+projects/app/src/components/core/chat/ChatContainer/ChatBox/Input/AgentAskComposer.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 3,8,21,302
+sdk/sandbox-adapter/src/adapters/sealos-devbox/adapter.ts
+  s_e42f0a09ac5073::t_e892557922d87b 27-34
+packages/workflow-cli/src/error.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,6
+packages/service/core/dataset/search/defaultRecall/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 18,138,183-188,190,194,197
+packages/service/test/support/permission/skill/auth.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 7,95-113
+  s_e42f0a09ac5073::t_ee263f3fd941d0 114-115
+projects/app/src/components/common/folder/useFolderDrag.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 5-7,20-30
+packages/web/test/components/common/DndDrag/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-69
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/render/NodeCard.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 29,74,117,147-152
+projects/app/src/migration/runner.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3-4,6-9,34,36,75-77,87-88,94,96,106,109,140,163-164,166-169,186-188,192,200-208,225,246-247,249-253,263,283,350,362-363,387-394,399,420-422,424,426,440,445,448-454,456-458,460-461,468-481,484-486,489-491,496-497,499-525,527-539,543-547,549-595,598-599,601-606,608-612,614-634,636-648,651-664,669-672,679,683-689,692-699,701-703,706-707,711,716,718-726,731-734
+projects/app/test/web/core/workflow/check/document.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-4,43,54,96-98,122
+packages/web/i18n/zh-CN/admin.json
+  s_e42f0a09ac5073::t_e892557922d87b 49-52
+packages/global/support/user/account/cancellation/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11-13,150
+packages/workflow-core/test/validation/validation.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,64-68,78-135,160-164,173-175,178-180,187-188,223,258,271,275-278,288-293,313-317,320-322,326-337,339-341,358,371,377,385-387,393-400,409-410,420,423-424,439-441,445,483-487,491-496,498-500,508,514,523,556-563,583-585,597-599,640,656,658-660,674-676,705,707,732-734,736-737,763,778-780,782-784,787-791,807,810,815,821-824,827,831-834,850-852,854-855,859-861,876-878,882-884,886-888,893-895,903
+projects/app/src/pageComponents/apidoc/CompletionEventExamples.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1-147
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/Loop/NodeLoopStart.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 65
+projects/app/src/pages/api/core/ai/skill/folder/path.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,6-11,31-35,42-85
+projects/app/test/pageComponents/admin/audit/AuditTable.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-244
+projects/app/test/pageComponents/app/detail/WorkflowComponents/WorkflowBuilder/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-13,17-140
+  s_e42f0a09ac5073::t_32d28230e7c77a 141
+document/content/self-host/config/env.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 49
+packages/service/test/core/workflow/dispatch/tools/runTool.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 348,392,402-405,428,467,470-475,511,522-525
+packages/service/core/chat/pushChatLog.ts
+  s_e42f0a09ac5073::t_e892557922d87b 124
+packages/service/support/wallet/usage/controller.ts
+  s_e42f0a09ac5073::t_e892557922d87b 189
+packages/global/common/parentFolder/ancestorIds.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-46
+packages/service/core/dataset/training/controller.ts
+  s_e42f0a09ac5073::t_e892557922d87b 23,25,435
+packages/workflow-core/src/domain/diagnostic.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,7,18,21,27,30
+packages/service/support/permission/resourcePermissionPolicy.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,31-37,42
+projects/app/src/components/core/ai/hooks/useModelTableFormat.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 4,9,99-100,102-104,109,113
+projects/app/src/components/support/permission/MemberManager/context.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 13,43,73,102-103,130-150,180,194-195,213
+projects/app/test/pageComponents/app/detail/Edit/ChatAgent/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 5-6,8,10,12-113,289-291
+packages/service/core/dataset/synonym/entity.ts
+  s_e42f0a09ac5073::t_e892557922d87b 28,44-45,47,194,219
+packages/service/test/core/dataset/search/collectionFilter.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 224-258
+packages/service/core/dataset/synonym/controller.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,7-8,15,32-36,57,63-64,69,71,74,89
+.agents/design/collection-permission-design.md
+  s_e42f0a09ac5073::t_e892557922d87b 172,188
+packages/global/openapi/core/dataset/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 31,103,105-106,129-131,142,380-385,396-401,409
+packages/service/test/core/dataset/synonym/rerank.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-114
+packages/web/i18n/ko-KR/app.json
+  s_e42f0a09ac5073::t_e892557922d87b 615-618
+packages/global/common/error/code/dataset.ts
+  s_e42f0a09ac5073::t_e892557922d87b 41-42,176-180
+packages/global/test/common/string/url.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,5,49-94
+  s_e42f0a09ac5073::t_7e46a2003cdd28 95
+packages/service/test/core/workflow/dispatch/ai/agent/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 540-545,676-677,685,687-688,714-719,1044,1048,1051-1052,1101-1103,1121,1128,1178,1181-1182
+packages/service/worker/readFile/extension/ofd.ts
+  s_e42f0a09ac5073::t_e892557922d87b 107,131-132,134,139-146,160,167-168,211,220,222,224-225
+projects/app/src/migration/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 21,50-52,77,84-85,93-100,146-147,153-158,174-175
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/render/Handle/useNodeHandleDrag.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1-81
+projects/app/src/pages/api/core/ai/model/invalidReferences/replace.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-87
+projects/app/src/pages/api/core/dataset/training/updateTrainingData.ts
+  s_e42f0a09ac5073::t_e892557922d87b 27-28,36,38,47-55,59,68-75,81-103,115,188-196
+  s_e42f0a09ac5073::t_e8bc74a78fe0c7 197-198
+.agents/design/core/chat/chatbox-refactor.md
+  s_e42f0a09ac5073::t_e892557922d87b 734,767-769,771-780,788-793
+packages/service/support/user/audit/schema.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2-11,42,45-64
+  s_e42f0a09ac5073::t_07e6a9c894d9c0 65
+packages/global/openapi/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 8,12,15,18-21,23-69,95
+packages/global/openapi/core/chat/chatAgentHelper/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,7-22
+packages/web/hooks/useToast.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11,37-39
+packages/service/test/worker/readFile/extension/csv.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 37-56
+packages/web/i18n/zh-Hant/system_migration.json
+  s_e42f0a09ac5073::t_e892557922d87b 14-17,44,128-138
+projects/app/src/components/core/chat/components/AIResponseBox/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 15,26,207,209,214,219-227
+  s_e42f0a09ac5073::t_65bc1cae78678f 228-229
+projects/app/src/migration/tasks/4173/20261025_token_prices_per_million/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-94
+packages/global/openapi/core/chat/history/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,8,10,12,23-24,26,46-48,94,97,102
+packages/service/core/dataset/search/filter/collectionFilter.ts
+  s_e42f0a09ac5073::t_e892557922d87b 195,197-200,278-280
+packages/service/test/core/chat/interactiveResponseDataId.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 69,73-88,118,121-133
+projects/app/src/pageComponents/dataset/detail/CollectionCard/TrainingErrorList.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 194
+projects/app/src/service/core/dataset/move.ts
+  s_e42f0a09ac5073::t_e892557922d87b 16-20,110-153,158-159,164,221-222,229
+  s_e42f0a09ac5073::t_4ac85a73a0c726 15
+projects/app/src/web/core/ai/model/channel.ts
+  s_e42f0a09ac5073::t_e892557922d87b 22,36-37,39-40,42-53
+projects/app/test/api/core/ai/model/update.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,50-52,123-286,318-324,327-328,331-337,339,341-353,432-433,449,452
+projects/app/src/components/core/chat/ChatContainer/ChatBox/components/HumanChatBubble/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 18,33,84
+packages/global/common/parentFolder/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11-15,24-25
+projects/app/test/components/Select/AIModelSelector.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 183-232,234-265
+projects/app/test/components/core/chat/components/AIResponseBox/WorkflowBuilder/WorkflowBuilderPreviewComposer.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-79
+projects/app/test/instrumentation-node.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-220
+packages/web/i18n/en/account_usage.json
+  s_e42f0a09ac5073::t_e892557922d87b 32,35-36,40,50-52,58
+projects/app/test/migration/entity.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 18,24,60-105,138-170,192-198,200-208,210-218
+projects/app/test/migration/plan.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-72
+packages/web/i18n/zh-Hant/app.json
+  s_e42f0a09ac5073::t_e892557922d87b 615-618
+projects/app/test/pageComponents/app/detail/Plugin/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-123
+projects/app/test/pageComponents/app/detail/WorkflowComponents/context/workflowActionsContext.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-325
+projects/app/test/api/admin/migrations.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,10,24,35-37,54-55,65,72-74,78,84,86,92,98,103,106,126,135-136,146
+projects/app/test/pageComponents/app/detail/WorkflowComponents/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 15-16,20-73
+packages/service/test/support/wallet/usage/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-2,4,6-9,12,14-15,19-22,26-29
+projects/app/test/pageComponents/model/ModelConfigForm.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-164
+projects/app/test/service/core/dataset/queues/generateRebuildIndex.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 279
+projects/code-sandbox/Dockerfile
+  s_e42f0a09ac5073::t_e892557922d87b 4,44
+projects/app/test/components/core/ai/hooks/useModelTableFormat.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3-6,41-84
+projects/app/src/pageComponents/app/detail/Edit/ChatAgent/EditForm.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 40,79-82,500-501,670-672
+packages/service/core/ai/embedding/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 110
+projects/app/test/service/support/wallet/usage/push.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-52
+document/content/guide/dataset/meta.en.json
+  s_e42f0a09ac5073::t_e892557922d87b 8
+packages/service/test/core/workflow/dispatch/dataset/toolResponse.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-62
+packages/global/openapi/core/dataset/data/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11,320,340
+projects/app/src/components/core/chat/ChatContainer/context/workflowRuntimeContext.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 8,21,42
+projects/app/src/pages/api/core/dataset/collection/paths.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-7,30-31,34,37-59,62-64
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/render/Handle/useNodeHandleLayout.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-47
+projects/app/src/components/core/chat/ChatContainer/ChatBox/components/AIChatBubble/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 36-37,42,99-100
+packages/web/i18n/zh-Hant/account_team.json
+  s_e42f0a09ac5073::t_e892557922d87b 58-62,66-80,120,209-213,216,237,262-265
+projects/app/src/web/core/app/api/tool.ts
+  s_e42f0a09ac5073::t_e892557922d87b 8,32-37
+packages/global/test/openapi/reference.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-156
+projects/app/test/api/core/ai/model/getConfigJson.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 20,31,48,60-64,66
+packages/web/i18n/en/account_bill.json
+  s_e42f0a09ac5073::t_e892557922d87b 3,8,34,36,38,40,42,44-45
+.agents/skills/system/pr-review/backend-quality/security.md
+  s_e42f0a09ac5073::t_e892557922d87b 36-37,42,60,83-84,87-88,181-186
+packages/service/test/integrations/ai/millionPricing.integration.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-193
+packages/web/i18n/ko-KR/chat.json
+  s_e42f0a09ac5073::t_e892557922d87b 11,76,207-212,215-220,230
+document/content/self-host/config/env.en.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 49
+packages/web/components/common/MySelect/MultipleRowSelect.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 249-257
+packages/workflow-cli/test/changeSet.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,107,169,179,227-229,256-258,282,313-315
+packages/workflow-core/tsdown.config.ts
+  s_e42f0a09ac5073::t_e892557922d87b 22
+packages/global/core/workflow/diagnostic/constants.ts
+  s_e42f0a09ac5073::t_c2d8abcc4776f5 124-130
+  s_e42f0a09ac5073::t_e892557922d87b 1-123,131-159
+projects/app/test/components/core/chat/ChatContainer/ChatBox/interactive.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 120-156,195,201,223,331,360-423
+  s_e42f0a09ac5073::t_8abec1c705e199 424
+.agents/skills/system/pr-review/backend-quality/performance.md
+  s_e42f0a09ac5073::t_e892557922d87b 128,132-133,135-136,138,141
+packages/global/openapi/core/chat/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 6,11,20,24,253-254,256-280,283-284,286-318,322-326,328,330-338,340-344,346,348-377
+packages/service/thirdProvider/sangfor/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 34,37-38
+packages/global/openapi/core/dataset/synonym/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 10,99
+packages/service/common/vectorDB/opengauss/controller.ts
+  s_e42f0a09ac5073::t_e892557922d87b 119-123,126,131,138
+packages/global/core/chat/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 14,16,207,300-301,371
+packages/web/hooks/useVirtualList.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 228
+packages/service/core/workflow/dispatch/ai/sandbox.ts
+  s_e42f0a09ac5073::t_e892557922d87b 9,11-13,15,20-21,28-31,33-38,40-54,56-58
+packages/web/i18n/zh-CN/system_migration.json
+  s_e42f0a09ac5073::t_e892557922d87b 14-17,44,128-138
+packages/workflow-core/src/edge/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,28
+packages/workflow-core/src/validation/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,21-24,87,101,116,172,184,195,247,254,265,283,292,333,379,401,425,444,457,460-467,469,472,479-482,488,499,524,541,552-556,572,603,612
+projects/app/src/components/core/chat/ChatContainer/ChatBox/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 20,31-34,65,75,92,104-105,166,299,384,457,818,830-839,882
+projects/app/src/pageComponents/account/team/Audit/dataset/audit.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-45
+projects/app/src/pageComponents/dashboard/agent/context.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 48,113,199-205,212-213,215-224,226-230,247-254,263-264,266-271,278-279,282-295,299-303
+projects/app/src/pageComponents/dashboard/skill/detail/config/SkillHistoriesPopover.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 116
+projects/app/src/pageComponents/apidoc/CompletionResponseExamples.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1-195
+projects/app/src/pages/api/core/app/folder/path.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,5-12,19-23,30-58,60-72,75-113,115-121,123-127
+document/content/openapi/dataset.en.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 106,155,165,216-232,596,600,774,841,1201-1208
+.agents/design/core/ai/model-id-reference-migration.md
+  s_e42f0a09ac5073::t_e892557922d87b 101,195,200,206,598-599,601,618,622,624,632,638-640,643-649
+packages/service/test/core/workflow/dispatch/ai/agentLoopCore/boundary.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 69,81-90,97-102
+packages/workflow-cli/src/output/render.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2-3,24-28,69-70
+projects/app/src/components/common/folder/SelectOneResource.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 66
+projects/app/src/pageComponents/dashboard/agent/List.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 4,11,43,96-97,185-188,192,204,209,214-221,286-293,295-301,487,530-534,557,559,561
+packages/global/openapi/admin/user/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 16-17
+document/content/guide/dataset/collection_tags_legacy.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 1-55
+packages/web/i18n/zh-CN/account_team.json
+  s_e42f0a09ac5073::t_e892557922d87b 58-62,66-80,120,209-213,216,237,262-265
+packages/web/i18n/zh-Hant/chat.json
+  s_e42f0a09ac5073::t_e892557922d87b 11,76,207-212,215-220,230
+packages/workflow-cli/test/io/workflowFile.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,39-41,52,54
+packages/workflow-cli/test/templateProvider.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,110,164-166
+projects/app/src/components/core/dataset/RawSourceBox.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1,29,46,48
+packages/web/i18n/en/app.json
+  s_e42f0a09ac5073::t_e892557922d87b 6,140,180,227,230-231,251,273,312,522,619-622
+packages/workflow-core/src/reference/validation.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-175
+packages/service/core/dataset/search/defaultRecall/result.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11-12,37-47
+packages/workflow-core/test/command/mergeChangeSet.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,172,221,326
+packages/web/hooks/useResponsiveGridPageSize.ts
+  s_e42f0a09ac5073::t_e892557922d87b 15
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/render/Handle/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-49
+projects/app/src/pageComponents/app/detail/WorkflowComponents/WorkflowBuilder/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 4,9,19,33,72,74,76,99,111-114,161,163-171,179,181-182,213
+projects/app/src/pageComponents/chat/ToolMenu.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 46
+projects/app/src/service/core/dataset/queues/rebuildSynonym.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11,27
+document/content/guide/build/workflow/rules.en.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 1-141
+projects/app/test/api/core/dataset/collection/update.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 128,131,134-135,139-164
+packages/web/test/core/workflow/template/bundle.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 85,135-136
+projects/app/test/components/core/chat/ChatContainer/ChatBox/components/ChatItem.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-272
+.agents/skills/system/pr-review/style/db.md
+  s_e42f0a09ac5073::t_e892557922d87b 7,12-13,19-20,23,30-31,53,57,60,66,69
+packages/web/i18n/en/workflow.json
+  s_e42f0a09ac5073::t_e892557922d87b 2-3,8,12,69-70,90-91,96,181,194,198,320,363,371,377
+projects/app/src/service/core/dataset/collectionVisibleList.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-145
+packages/service/common/system/tools.ts
+  s_e42f0a09ac5073::t_e892557922d87b 22,28,30-31,72
+packages/service/support/permission/skill/auth.ts
+  s_e42f0a09ac5073::t_e892557922d87b 13-16,102-106
+packages/global/core/app/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 10-14,218-221,291,296-297,319-320,365-371,379
+packages/service/test/core/ai/llm/compress/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 67,196-247
+  s_e42f0a09ac5073::t_54337a8bf3670a 248-249
+packages/global/core/dataset/constants.ts
+  s_e42f0a09ac5073::t_e892557922d87b 231-232,260-261,267-268
+packages/global/openapi/core/workflow/builder/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 8
+packages/service/test/core/workflow/dispatch/ai/agentLoopCore/eventStream/eventDispatcher.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 29-66,210-212
+  s_e42f0a09ac5073::t_43c1ee9eee5c3e 213-214
+packages/workflow-core/test/template/provider.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,67,82-84
+packages/service/test/core/app/tool/systemTool/capability.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 7,44-47,86-134,167-221
+  s_e42f0a09ac5073::t_aa4563642d009f 222
+projects/app/src/components/core/chat/components/AIResponseBox/useCollapseScroll.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-60
+projects/app/src/instrumentation-node.ts
+  s_e42f0a09ac5073::t_e892557922d87b 42,71,243-244,283-294
+projects/app/src/pageComponents/app/detail/WorkflowComponents/WorkflowBuilder/uiState.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,146-168,187
+projects/app/src/pageComponents/dataset/detail/DataCard.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 97
+projects/app/src/pageComponents/dashboard/mcp/EditModal.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 40,105,130,134,139-140,142-144,148-149,162,167,198-199,205-210,213-218,225,230-238,247-248,253-261,266,428-437
+  s_e42f0a09ac5073::t_98bd7567c4bd23 438
+projects/app/src/components/core/chat/ChatContainer/ChatBox/utils/chatValue.ts
+  s_e42f0a09ac5073::t_e892557922d87b 7,43-44
+projects/app/test/pageComponents/app/detail/WorkflowComponents/Flow/components/IOTitle.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-66
+packages/global/openapi/core/app/version/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,116
+packages/service/core/workflow/dispatch/ai/agent/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 46,210-212,216-225,227-236
+packages/service/support/wallet/usage/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,8,17
+projects/app/test/pageComponents/app/detail/WorkflowComponents/Flow/nodes/render/Handle/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-97
+projects/app/test/pageComponents/account/team/Audit/processors/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-131
+packages/service/test/common/response/sse.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,44-84,86
+  s_e42f0a09ac5073::t_646021d768cccd 85,87
+projects/app/src/components/core/chat/ChatContainer/PluginRunBox/context.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 279
+projects/app/src/pages/api/core/dataset/listV2.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2-3,38-44,47-48,53-61,63-66,68-71,98-131,133-137,139-159,161-163,170-229,288-291
+projects/app/src/pageComponents/app/detail/Edit/SimpleApp/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 36-39,48,227-228,594
+projects/app/src/service/core/ai/model/invalidReferences/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-861
+packages/service/test/worker/readFile/extension/ofd.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4-9,450-515
+packages/web/test/hooks/useResponsiveGridPageSize.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 6-9,13-15
+projects/app/src/web/core/ai/model/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 23-26,87-91
+  s_e42f0a09ac5073::t_39527a9392b363 92
+packages/global/test/openapi/core/chat/completion/api.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,10-11,13-128
+projects/app/test/pageComponents/app/detail/WorkflowComponents/context/workflowDebugContext.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 47
+projects/app/src/pageComponents/dashboard/skill/List.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1-2,9,43,45,85,102,113-114,206-234,242,344,349-357,361,363-370,431-438,441-467,469-494,496-497,545,556,583,586,589-591
+packages/global/openapi/core/chat/outLink/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,5-9,11-15
+packages/service/worker/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 7,69-73,185-261,893-899,1123-1126
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/render/Handle/ToolHandle.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 5-6,11,31-40,42-43,54-55,59,78,82,89,92-94,107-108,112,118,128,133
+packages/service/test/core/dataset/audit/config.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-337
+projects/app/test/pageComponents/dashboard/agent/renameInNavigationFolder.test.ts
+  s_e42f0a09ac5073::t_1be4ccb30251e2 88,92
+  s_e42f0a09ac5073::t_e892557922d87b 1-87,89-91,93-185
+packages/global/openapi/admin/wallet/plan/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,44,98-103,105-107,110-112
+packages/service/core/ai/model/import.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,70
+packages/service/test/core/app/mcp.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 31,617-649
+projects/app/src/pageComponents/apidoc/CompletionResponseExamples.module.scss
+  s_e42f0a09ac5073::t_e892557922d87b 1-114
+projects/app/src/web/core/workflow/check/resource.ts
+  s_e42f0a09ac5073::t_0c9c8723f5c769 41-49,61-63,72,75-77,80-83,92,101
+  s_e42f0a09ac5073::t_0d9e2d580dcb09 199-202,213-216,225-228,252-254,258-260
+  s_e42f0a09ac5073::t_e892557922d87b 1,36,343-347
+  s_e42f0a09ac5073::t_fe780b251ebac6 111,116,129,197,212,223,288,292,298,302,308,312,326,328
+projects/app/test/pageComponents/price/Points.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-41
+packages/global/openapi/core/chat/controler/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 16-20,26
+sdk/sandbox-adapter/src/adapters/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11
+packages/global/support/wallet/constants.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1
+projects/marketplace/Dockerfile
+  s_e42f0a09ac5073::t_e892557922d87b 2,26,50
+packages/workflow-core/test/validation/io.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,25-30,86-164,324-327,367,394,416-418,480-481,499-501,523-525,587-588,640-642,655-657,705,709,713,715-718,761,764,771,776,805-806,823-825
+packages/global/openapi/core/chat/history/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,109,122
+projects/app/test/api/core/dataset/training/updateTrainingData.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11,16-18,184-226,264-309
+  s_e42f0a09ac5073::t_ed15491657878c 310
+packages/workflow-core/src/command/apply.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-2,97,137,144-146,149-153,155-156,160,216-220,267,366,420-422,447-451
+packages/global/openapi/admin/wallet/bill/invoice/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 31
+packages/service/core/app/mcp.ts
+  s_e42f0a09ac5073::t_e892557922d87b 20,362-390,439-448,467-473
+packages/workflow-core/src/template/valueSchema.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,189
+projects/app/test/components/core/chat/ChatContainer/ChatBox/agentAskComposer.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,5,11,18
+projects/app/test/components/core/chat/ChatContainer/ChatBox/hooks/useChatGenerate.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 12-14,29-34,38-40,49-51,56-64,97,105-106,112,117-118,134,139-140,155-168,188-189,196,202-214,221,228,240-249,251,270,282-283,286-288,318-324,337-632,671-734,736
+  s_e42f0a09ac5073::t_495b766333a345 735,737
+projects/app/test/components/core/chat/components/AIResponseBox/useCollapseScroll.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-152
+packages/service/test/core/workflow/dispatch/ai/chat/datasetCite.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-103
+packages/service/test/core/ai/llm/request/createLLMResponse.contract.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,44,99-102,106,220,225,227-232
+projects/app/src/pageComponents/app/detail/WorkflowComponents/WorkflowBuilder/ChatPanel.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1,29,39,253,302
+projects/app/test/service/common/s3/proxy.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 8,213,227,256,262,326-367
+packages/service/test/core/chat/utils/prepare.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 26-28,296-340,342,345-347,356,360-372,374-376,380-408,434,445,448-458,468,485,488-498
+packages/service/common/vectorDB/pg/controller.ts
+  s_e42f0a09ac5073::t_e892557922d87b 124-128,131,136,143
+packages/service/test/support/permission/app/auth.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 9-10,103-123
+  s_e42f0a09ac5073::t_bf83961a9067a6 124-125
+projects/app/src/pages/api/core/dataset/resumeInheritPermission.ts
+  s_e42f0a09ac5073::t_e892557922d87b 19-20,27,34-37,79-90
+packages/web/hooks/useLinkedScroll.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 22
+packages/web/i18n/en/admin.json
+  s_e42f0a09ac5073::t_e892557922d87b 49-52
+projects/app/test/web/core/workflow/check/diagnostic.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,10,16-18,29-62,67,78,89,120,133,144,154,158,167-171,177,180-183
+projects/app/test/components/core/dataset/DatasetTagFilterRows.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,7,112-170
+projects/app/src/components/Select/AIModelSelector.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 47,130,173-175,179,307-310,313-315
+packages/service/support/permission/app/auth.ts
+  s_e42f0a09ac5073::t_e892557922d87b 23-26,132-136
+projects/app/src/pageComponents/app/detail/Edit/ChatAgent/ChatTest.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 25,183-185,267-268,272
+projects/app/src/pageComponents/app/detail/Edit/FormComponent/AppCard.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 195-197,199-209
+projects/app/src/pages/account/model/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 1,14-15,26-27,100-107,112-116,120-122
+projects/app/src/web/core/chat/context/useChatStore.ts
+  s_e42f0a09ac5073::t_e892557922d87b 40-42,260,299
+packages/global/common/system/types/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 60-70,419-422
+packages/global/test/openapi/requiredExamples.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 15-16,18-24,26,33-34,70,76-78,82-118,200,210-272,290
+packages/web/components/common/DateTimePicker/SingleDateTimePicker.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 44,72,116-370,423
+packages/global/test/openapi/admin/settings.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 90,101-127
+  s_e42f0a09ac5073::t_33f714e46d0f9c 128
+projects/app/src/pageComponents/app/detail/WorkflowComponents/context/workflowDebugContext.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 81
+projects/app/test/api/core/referencedAppsPermission.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 159-163
+packages/global/core/app/tool/runtime.ts
+  s_e42f0a09ac5073::t_e892557922d87b 161,176-177
+packages/global/openapi/admin/team/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,21
+packages/global/openapi/core/chat/chatAgentHelper/config.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-31
+packages/service/core/dataset/search/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 20,115
+projects/app/test/api/core/app/list.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 360-483
+packages/global/openapi/core/chat/inputGuide/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,15
+packages/web/i18n/ko-KR/config_model.json
+  s_e42f0a09ac5073::t_e892557922d87b 136-137,275-297
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/render/Handle/ConnectionHandle.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 4-5,9,11,19-47,59-84
+packages/web/hooks/useScrollPagination.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 9-13,34-39,48,55,68-71,77-83,88,93-96,110-116,119,123,126,128-129,131,148,156-165,167-171,174-176,178-217,220-224,229,233-234,343-420,425,432-433
+projects/app/src/components/core/chat/components/AIResponseBox/RenderTool.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 18-24,126-127,167-170,172-202,205,210-212,214-216
+  s_e42f0a09ac5073::t_c1c6d89cbb7b8f 17
+projects/app/test/pageComponents/app/detail/WorkflowComponents/WorkflowBuilder/uiState.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 11,19,34,325-348,354,358-368,397-400,404,409-412
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/render/RenderInput/templates/DatasetTagFilter.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 4-5,9,14,19,118,124,147-150,178-203,205-221
+sdk/storage/src/adapters/aws-s3.adapter.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1
+packages/global/openapi/core/ai/model/invalidReferences.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-88
+packages/service/core/dataset/synonym/searchResult.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-166
+packages/service/test/core/dataset/search/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 5-9,19-20,55-108
+packages/workflow-core/test/reference/service.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,23-24,33-68,103,119,125,133,176,196,207,232-234,249,273,339-343,398,426,429-430,441-443,513,520,539,549-551,566,608-612,618,626,628,635,643
+packages/global/core/app/tool/httpTool/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 273,306-309
+packages/service/core/workflow/resource/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 25,261
+packages/service/test/support/permission/dataset/auth.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 184-209
+packages/service/support/permission/controller.ts
+  s_e42f0a09ac5073::t_e892557922d87b 193-195
+projects/app/src/pageComponents/admin/audit/AuditTable.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 22,93,97
+projects/app/test/migration/4163ModelReferences.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 130-131,134,147-148,151
+document/content/self-host/config/model/intro.en.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 146-149,165,191,243,261
+packages/service/core/dataset/audit/config.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-170
+packages/service/support/user/systemUser.ts
+  s_e42f0a09ac5073::t_e892557922d87b 13
+packages/global/core/dataset/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 26,165-167,445,458-461,468-469,639-643
+packages/global/test/common/string/tools.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 71-86
+packages/web/i18n/ko-KR/common.json
+  s_e42f0a09ac5073::t_e892557922d87b 470,929,986,1383
+packages/service/core/ai/auxiliaryGeneration/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 61
+projects/app/src/components/core/chat/ChatContainer/ChatBox/utils/resume.ts
+  s_e42f0a09ac5073::t_e892557922d87b 12-16,141,182-188,282,294-295,316-317,330-337,349-352,358,371,381
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/render/RenderInput/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 19,240-248,250,257-259,308
+packages/service/test/worker/readFile/utils/pdf/pdfTextPostprocess.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 207-239
+projects/app/test/pageComponents/app/detail/WorkflowComponents/adapters/command.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,71-84,132,137,139-155,166
+packages/web/i18n/en/user.json
+  s_e42f0a09ac5073::t_e892557922d87b 35,38,40
+document/content/self-host/troubleshooting/faq.en.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 190-198
+packages/service/support/user/schema.ts
+  s_e42f0a09ac5073::t_e892557922d87b 76-77
+packages/service/test/core/workflow/dispatch/tools/http468.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3-8,109-206
+  s_e42f0a09ac5073::t_dd3f7b60ef0296 207
+packages/service/test/common/string/tiktoken.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2-5,79-167
+  s_e42f0a09ac5073::t_67940e848b95b0 168
+packages/dal/redis/bullmq/job-recovery.ts
+  s_e42f0a09ac5073::t_e892557922d87b 43
+packages/web/i18n/ko-KR/dataset.json
+  s_e42f0a09ac5073::t_e892557922d87b 7,45-46
+packages/service/core/dataset/synonym/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 45-48,465,520
+packages/web/i18n/zh-CN/workflow.json
+  s_e42f0a09ac5073::t_e892557922d87b 2-3,69-70,90-91,96,363,371,377
+packages/service/test/core/workflow/dispatch/ai/agentLoopCore/memory/providerState.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 41-42,48,52,54,60
+projects/app/src/pageComponents/admin/config/Migration.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 14,228-233,268,271,273-275,490
+projects/app/src/pages/api/admin/migrations/retry.ts
+  s_e42f0a09ac5073::t_e892557922d87b 7,13,25
+.agents/skills/system/pr-review/agents/openai.yaml
+  s_e42f0a09ac5073::t_e892557922d87b 1-7
+packages/global/openapi/core/dataset/training/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 5-6,162,210,219,225
+packages/global/support/permission/chat.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3-5,7-8,13,26-30,40-44
+projects/app/src/migration/registry.ts
+  s_e42f0a09ac5073::t_e892557922d87b 24,27,56,58,83-86,92,102,107,128,159-160,179-180,201-202,225-226,255,278,351,434,506,528,530-576,602-603,606-607,610-616
+packages/global/core/chat/input/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-27
+packages/web/test/hooks/useScrollPagination.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 73-74,83-85,88,93-94,99-104,118-133,213,219-220,222,224-225,228,230-240,242-257,259,261-262,264,269-270,272,274-280,283,285-301,303-313,316,318-435,440-458,460-463,465-487,489-490,492-497,499,501-636
+packages/global/openapi/core/ai/model/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 36-39,43-58
+packages/service/support/permission/dataset/auth.ts
+  s_e42f0a09ac5073::t_e892557922d87b 33-36,108-109
+packages/web/i18n/en/config_model.json
+  s_e42f0a09ac5073::t_e892557922d87b 23,27,136-137,181,275-297
+packages/web/i18n/zh-Hant/config_model.json
+  s_e42f0a09ac5073::t_e892557922d87b 136-137,275-297
+projects/app/src/pageComponents/app/detail/Logs/UserFilter.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 41
+.agents/skills/doc/i18n/SKILL.md
+  s_e42f0a09ac5073::t_e892557922d87b 48,54-58,85
+projects/app/src/pages/api/core/chat/record/delete.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,42-47
+projects/app/src/service/core/app/visibleList.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-154
+packages/global/core/app/constants.ts
+  s_e42f0a09ac5073::t_e892557922d87b 9,42-56
+packages/global/test/core/dataset/search/tagFilter.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 14,21,287-372
+  s_e42f0a09ac5073::t_2b049d4ecb6141 373
+packages/service/core/app/http.ts
+  s_e42f0a09ac5073::t_e892557922d87b 4,207-208
+packages/service/common/vectorDB/controller.ts
+  s_e42f0a09ac5073::t_e892557922d87b 15-16,35-37,43-70
+projects/app/test/api/core/dataset/training/deleteTrainingData.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 15,27,71-88
+projects/app/test/pageComponents/app/detail/WorkflowComponents/Flow/nodes/render/Handle/useNodeHandleDrag.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-147
+document/content/self-host/custom-models/xinference.en.mdx
+  s_e42f0a09ac5073::t_e892557922d87b 136
+projects/app/src/pages/dataset/list/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 72-73
+packages/workflow-core/src/template/provider.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,17,39,82,116,130-133
+projects/app/test/service/core/app/referencedApps.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 74-78
+projects/app/src/components/core/chat/components/AIResponseBox/constants.ts
+  s_e42f0a09ac5073::t_e892557922d87b 17-72
+projects/app/test/service/support/permission/auth/chatCompletion.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 130,151,167-170,175-213,225,247,490
+projects/mcp_server/src/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 102-113,115-127
+packages/service/test/core/workflow/dispatch/ai/toolcall/toolCall.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 568-618
+packages/global/core/dataset/search/tagFilter/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 44-45
+packages/global/core/workflow/builder/type.ts
+  s_e42f0a09ac5073::t_e892557922d87b 75
+packages/workflow-core/src/edge/compiler.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,17,21,27-30,45,56,59,69-72,82,90-91,95-96,119,136,157,167,172,177
+packages/workflow-core/test/node/service.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,15
+packages/workflow-core/src/config/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,19-23,75,177-181,203,209-213,228,258,265
+packages/web/i18n/zh-CN/chat.json
+  s_e42f0a09ac5073::t_e892557922d87b 11,76,207-212,215-220,230
+packages/service/test/core/chat/delete.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 8-11,16-17,19-107,109,111
+packages/global/openapi/core/app/log/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,109,148,167,332
+packages/global/test/openapi/support/user/api.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 43-44,145-171
+  s_e42f0a09ac5073::t_bb065e7a984dfd 172-173
+packages/service/test/common/response/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 162-163
+projects/app/src/migration/tasks/README.md
+  s_e42f0a09ac5073::t_e892557922d87b 3,7,18,20-72,76,81,84-95
+projects/app/src/pageComponents/app/detail/WorkflowComponents/Flow/nodes/NodeIfElse/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 19,28,57-101,103-126,128-150
+packages/global/core/dataset/search/tagFilter/normalizer.ts
+  s_e42f0a09ac5073::t_e892557922d87b 8-9,19-23,249-250,321,323,417-462
+packages/global/test/openapi/api.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3,6-8,16,19-20,23,25-34,61-64,76-131,137-148,169-412
+projects/app/src/pageComponents/app/detail/Edit/FormComponent/checkAppForm.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,92-96,99-102
+projects/app/src/pageComponents/dashboard/agent/filters/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-5,29,37,132
+.agents/skills/system/pr-review/style/package.md
+  s_e42f0a09ac5073::t_e892557922d87b 9,15,22-23,32,37,47,49
+packages/service/package.json
+  s_e42f0a09ac5073::t_e892557922d87b 63
+projects/app/src/migration/tasks/4170/20260903_migrate_legacy_system_models/utils.ts
+  s_e42f0a09ac5073::t_e892557922d87b 13-52,144,156,170,190,324
+projects/app/src/pageComponents/model/ModelConfigForm.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 5-8,14,399-421,466-467,487-490,493,791-792,795-796,798-815
+packages/service/core/chat/utils/prepare.ts
+  s_e42f0a09ac5073::t_e892557922d87b 140-143
+projects/app/src/pageComponents/model/ModelDashboard/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 20-21,25,151-153,158-160,376-377,595-596
+packages/global/core/workflow/template/context.ts
+  s_e42f0a09ac5073::t_e892557922d87b 144-146
+projects/app/src/pages/api/core/dataset/training/deleteTrainingData.ts
+  s_e42f0a09ac5073::t_e892557922d87b 16,18,27,41,43,70,94,97-108
+  s_e42f0a09ac5073::t_a56e17f8519eed 109
+projects/app/src/pages/dashboard/agent/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 74-75,120
+packages/global/openapi/admin/app/api.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2,16
+projects/app/src/service/common/s3/proxy.ts
+  s_e42f0a09ac5073::t_e892557922d87b 39,554-561,568,570,579,607,713,749-757
+projects/app/src/components/core/chat/ChatContainer/ChatBox/hooks/useChatRecordActions.ts
+  s_e42f0a09ac5073::t_e892557922d87b 8,48,74-77,90-91,93,96-98,105-106,114-115,119-120,131,136,155
+packages/workflow-cli/src/run.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,52-53,93-96,106
+packages/workflow-core/src/binding/service.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,46-48
+packages/web/components/common/MyLoading/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 3,5,7,37-38,52-55
+document/data/doc-last-modified.json
+  s_e42f0a09ac5073::t_e892557922d87b 60-61
+  s_e42f0a09ac5073::t_b8e99629ff194a 148-149,180-181,372-373,516-517
+packages/global/common/parentFolder/tree.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-56
+projects/app/src/pages/dataset/detail/index.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 58-61,111-126
+projects/app/src/pageComponents/account/bill/InvoiceTable.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 28
+packages/workflow-core/test/edge/validation.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,6,8-9,12-16,19-20,26-37,40-110,130,172-182,186-187,204-207,223,234-236,245-247,260-828
+  s_e42f0a09ac5073::t_cb9a990de4585b 829
+projects/app/src/service/core/dataset/data/dataIndex.ts
+  s_e42f0a09ac5073::t_e892557922d87b 25-26,706
+projects/app/src/service/core/dataset/visibleList.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-142
+projects/app/test/pageComponents/app/detail/WorkflowComponents/WorkflowBuilder/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 3-5,13-18,24,33,47-50,72,113-114,149,180,189,220-224,232-247,293-296,319-354,442-468
+projects/app/src/pageComponents/app/detail/WorkflowComponents/context/workflowInitContext.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 266-267,271,281-283
+packages/service/core/workflow/dispatch/ai/toolcall/index.ts
+  s_e42f0a09ac5073::t_e892557922d87b 21-25,36-39,130-165,241,250,259,268
+packages/web/components/common/Tabs/LightRowTabs.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 17,32,158
+projects/app/src/pageComponents/admin/config/basic.tsx
+  s_e42f0a09ac5073::t_e892557922d87b 16,24,202-220
+projects/app/test/web/core/workflow/check/check.test.ts
+  s_e42f0a09ac5073::t_627a41aa1ad620 87-93
+  s_e42f0a09ac5073::t_e892557922d87b 1-4,37,55-56,98-130,181,192,316,319-322,359-364,393-396,466,471-474,515,523-525,528,546,550-685,787-789,805-807,823-825,841-843,871-873,893-895,1006-1008,1049,1053-1075,1077-1123,1125-1147,1150-1151,1164-1166,1199-1204,1216,1227-1229,1242-1247,1257-1263,1268,1279-1284,1296-1301,1316,1320,1753-1759,1784-1787,1801-1803,1822,1854,1858,1897,1992-2003,2039,2331,2541-2550,2653,2710,2715-2717,2719-2721,2756-2759,2766,2771,2775-2809,2825,2828,2851,2857,2876-2879,2910,2935-2937,2939,2942,2992,3022-3024,3026
+packages/service/test/core/chat/nodeResponseStorage.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 43-73
+packages/workflow-core/src/template/instantiate.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1,42,52,66
+packages/global/test/core/chat/adapt.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1842,1852,1855,1857-1860,1870,1872,3357,3360-3370,3381,3626-3725
+  s_e42f0a09ac5073::t_33497b057a8d32 3726
+projects/app/src/pageComponents/app/detail/Edit/FormComponent/useAppDatasetTagFilter.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-92
+projects/app/src/service/core/dataset/queues/datasetParse.ts
+  s_e42f0a09ac5073::t_e892557922d87b 110-124,388-391,404-410
+  s_e42f0a09ac5073::t_423044ec4a0242 411-415
+projects/app/test/api/core/ai/model/list.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 21,33,57
+projects/app/test/api/core/app/listV2.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-191
+projects/app/test/pages/api/core/ai/model/invalidReferences/replace.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 1-137
+projects/app/src/web/core/app/api/app.ts
+  s_e42f0a09ac5073::t_e892557922d87b 18
+projects/app/test/web/core/chat/utils.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 2-6,10-35
+packages/service/test/core/workflow/dispatch/ai/agent/sub/tool/index.test.ts
+  s_e42f0a09ac5073::t_e892557922d87b 121,168-171,247,307-310,317,376-378,380
+  s_e42f0a09ac5073::t_fac1534f8d5d25 385,389,391
+packages/web/i18n/en/account_team.json
+  s_e42f0a09ac5073::t_e892557922d87b 35,58-62,66-80,96,111,120,127,209-213,216,237,262-265,272,277,280,345
+document/content/self-host/troubleshooting/faq.mdx
+  s_e42f0a09ac5073::t_a6423b28be07ed 147,192-200
+pnpm-lock.yaml
+  s_e42f0a09ac5073::t_a66ebe23d5d364 63-65,199-200,253-254,261-263,472-473,477-479,723-724,766,1159,1495-1497,1608,1680,1693-1695,1981,11590-11591,11778-11779,14259-14262,15027-15028,15089,18165,18217-18218,19623,19843,23654-23655,23665-23666,24359,27056,27236,30266-30267,30443,31192,31194,31200,31202,31210
+pro
+  s_e42f0a09ac5073::t_f0d8f574677781 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "1ec2e3d8933518bac3c071394cd421048e70cf1f",
+  "prompts": {},
+  "sessions": {
+    "s_e42f0a09ac5073": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9dc3f44a-653a-4635-8ad4-7aeb604dca2e",
+        "model": "deepseek-v4-flash"
+      },
+      "human_author": "Jon <ljp@sangfor.com.cn>"
+    }
+  }
+}
