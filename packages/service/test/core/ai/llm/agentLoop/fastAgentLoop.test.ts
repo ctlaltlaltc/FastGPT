@@ -865,3 +865,50 @@ describe('runFastAgentMainLoop', () => {
     );
   });
 });
+
+describe('fastAgent tool call history', () => {
+  beforeEach(() => {
+    vi.clearAllMocks();
+    compressRequestMessagesMock.mockImplementation(async ({ messages }) => ({ messages }));
+    compressToolResponseMock.mockImplementation(async ({ response }) => ({ compressed: response }));
+  });
+
+  it('normalizes double-encoded tool call arguments before replaying history', async () => {
+    mockCreateLLMResponseQueue(createLLMResponseMock, [
+      text({ requestId: 'req_history_normalized', content: 'ok' })
+    ]);
+
+    await runFastAgentMainLoop({
+      runtime: createRuntime(),
+      input: {
+        messages: [
+          {
+            role: ChatCompletionRequestMessageRoleEnum.User,
+            content: 'continue'
+          },
+          {
+            role: ChatCompletionRequestMessageRoleEnum.Assistant,
+            tool_calls: [
+              {
+                id: 'call_previous',
+                type: 'function',
+                function: {
+                  name: 'search',
+                  // 模型曾把 arguments 输出成 JSON 字符串，这里模拟历史中二次编码的值
+                  arguments: JSON.stringify(JSON.stringify({ q: 'history' }))
+                }
+              }
+            ]
+          }
+        ]
+      }
+    });
+
+    const requestMessages = createLLMResponseMock.mock.calls[0][0].body.messages;
+    const replayedCall = requestMessages.find(
+      (message: any) => message.role === 'assistant' && message.tool_calls?.length
+    )?.tool_calls[0];
+
+    expect(replayedCall.function.arguments).toBe('{"q":"history"}');
+  });
+});

@@ -938,3 +938,16 @@ describe('promptToolCallMessageRewrite function tests', () => {
     });
   });
 });
+
+
+describe('parsePromptToolCall string arguments', () => {
+  it('should not double-encode arguments when model returns a JSON string', () => {
+    const input =
+      '1: {"name": "create_td", "arguments": "{\\"summary\\":\\"test\\",\\"desc\\":\\"body\\"}"}';
+    const result = parsePromptToolCall(input);
+
+    expect(result.toolCalls).toHaveLength(1);
+    expect(result.toolCalls![0].function.name).toBe('create_td');
+    expect(result.toolCalls![0].function.arguments).toBe('{"summary":"test","desc":"body"}');
+  });
+});

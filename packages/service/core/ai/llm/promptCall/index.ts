@@ -6,6 +6,7 @@ import type {
   ChatCompletionSystemMessageParam,
   ChatCompletionTool
 } from '@fastgpt/global/core/ai/llm/type';
+import { normalizeToolCallArguments } from '../toolCall/arguments';
 import { getPromptToolCallPrompt } from './prompt';
 import { cloneDeep } from 'lodash-es';
 
@@ -52,7 +53,10 @@ export const promptToolCallMessageRewrite = (
       if (message.content && typeof message.content === 'string') {
         message.content = `0: ${message.content}`;
       } else if (message.tool_calls?.length) {
-        message.content = `1: ${JSON.stringify(message.tool_calls[0].function)}`;
+        message.content = `1: ${JSON.stringify({
+          ...message.tool_calls[0].function,
+          arguments: normalizeToolCallArguments(message.tool_calls[0].function.arguments)
+        })}`;
         delete message.tool_calls;
       }
     } else if (message.role === 'tool') {
@@ -64,6 +68,26 @@ export const promptToolCallMessageRewrite = (
   }
 
   return cloneMessages;
+};
+
+/**
+ * prompt 模式的模型输出经过 json5 解析后，arguments 可能是对象，也可能是 JSON 字符串。
+ * 对象按原逻辑序列化；JSON 字符串需要在保留旧行为（null、非 JSON 字符串）的同时，
+ * 处理「字符串里还是对象 JSON」的二次编码场景。
+ */
+const stringifyPromptToolArguments = (args: unknown): string => {
+  if (args === null) return 'null';
+
+  if (typeof args === 'string') {
+    const normalized = normalizeToolCallArguments(args);
+    const trimmed = args.trim();
+    if (normalized === '{}' && trimmed !== '' && trimmed !== '{}') {
+      return JSON.stringify(args);
+    }
+    return normalized;
+  }
+
+  return JSON.stringify(args);
 };
 
 const ERROR_TEXT = 'Tool call error';
@@ -82,7 +106,7 @@ export const parsePromptToolCall = (
     const toolString = sliceJsonStr(str);
 
     try {
-      const toolCall = json5.parse(toolString) as { name: string; arguments: object };
+      const toolCall = json5.parse(toolString) as { name: string; arguments: unknown };
 
       return {
         answer: '',
@@ -92,7 +116,7 @@ export const parsePromptToolCall = (
             type: 'function' as const,
             function: {
               name: toolCall.name,
-              arguments: JSON.stringify(toolCall.arguments)
+              arguments: stringifyPromptToolArguments(toolCall.arguments)
             }
           }
         ]

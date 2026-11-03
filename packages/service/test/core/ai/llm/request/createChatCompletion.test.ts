@@ -102,7 +102,8 @@ describe('createChatCompletion', () => {
 
     expect(mockGetAIApi).toHaveBeenCalledWith({
       userKey: undefined,
-      timeout: 600000
+      timeout: 600000,
+      fetch: expect.any(Function)
     });
     expect(create).toHaveBeenCalledWith(
       {

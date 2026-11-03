@@ -32,8 +32,10 @@ export const getAIApi = (props?: {
   userKey?: OpenaiAccountType;
   timeout?: number;
   model?: AiproxyScopeModelInput;
+  /** 可选自定义 fetch，供调用方扩展请求/错误处理。 */
+  fetch?: typeof globalThis.fetch;
 }) => {
-  const { userKey, timeout, model } = props || {};
+  const { userKey, timeout, model, fetch: customFetch } = props || {};
   const userOpenAIAccount = getUserOpenAIAccount(userKey);
 
   const baseUrl = userOpenAIAccount?.baseUrl || openaiBaseUrl;
@@ -47,6 +49,7 @@ export const getAIApi = (props?: {
       apiKey,
       timeout,
       maxRetries: 2,
+      ...(customFetch && { fetch: customFetch }),
       defaultHeaders:
         defaultHeaders && Object.keys(defaultHeaders).length > 0 ? defaultHeaders : undefined
     }),

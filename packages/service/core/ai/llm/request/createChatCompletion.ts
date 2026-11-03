@@ -1,4 +1,5 @@
 import { getErrText, UserConfigError } from '@fastgpt/global/common/error/utils';
+import { createAIErrorNormalizingFetch } from '../../errorResponse';
 import type { UnStreamResponseType } from '@fastgpt/global/core/ai/llm/type';
 import OpenAI from '@fastgpt/global/core/ai';
 import { getAIApi, getModelOpenAIOptions, type AIApiRequestMeta } from '../../config';
@@ -63,7 +64,8 @@ export const createChatCompletion = async ({
 
   const { ai, requestMeta } = getAIApi({
     userKey,
-    timeout: formatTimeout
+    timeout: formatTimeout,
+    fetch: createAIErrorNormalizingFetch()
   });
 
   try {

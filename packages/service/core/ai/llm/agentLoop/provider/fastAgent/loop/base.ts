@@ -25,6 +25,7 @@ import type {
 import { getErrText } from '@fastgpt/global/common/error/utils';
 import { batchRun } from '@fastgpt/global/common/system/utils';
 import { normalizeToolResponseContent } from '@fastgpt/global/core/ai/llm/utils';
+import { normalizeToolCallArguments } from '../../../../toolCall/arguments';
 import type { AgentPlanType } from '@fastgpt/global/core/ai/agent/type';
 import { getNanoid } from '@fastgpt/global/common/string/tools';
 import {
@@ -248,7 +249,10 @@ export const runAgentLoop = async <TChildrenResponse = unknown>({
         tool_calls: item.tool_calls.map((tool) => ({
           id: tool.id,
           type: tool.type,
-          function: tool.function
+          function: {
+            ...tool.function,
+            arguments: normalizeToolCallArguments(tool.function.arguments)
+          }
         }))
       };
     }
