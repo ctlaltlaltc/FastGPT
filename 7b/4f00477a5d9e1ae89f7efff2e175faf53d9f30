@@ -1,0 +1,33 @@
+packages/web/i18n/en/common.json
+  s_d5b0eb4a33ed7e::t_9e312fa4ff415b 1458-1613
+.agents/test/playwright.config.ts
+  s_d5b0eb4a33ed7e::t_baf20944fd9cbb 23-31
+docs/design/mcp-oauth-v2.4.md
+  s_d5b0eb4a33ed7e::t_baf20944fd9cbb 1-1344
+.agents/test/app/mcptools/oauth-connect.browser.spec.ts
+  s_d5b0eb4a33ed7e::t_baf20944fd9cbb 1-558
+projects/app/src/web/core/workflow/utils.ts
+  s_d5b0eb4a33ed7e::t_9e312fa4ff415b 490-493
+packages/web/i18n/zh-CN/common.json
+  s_d5b0eb4a33ed7e::t_9e312fa4ff415b 1458-1613
+packages/web/i18n/ko-KR/common.json
+  s_d5b0eb4a33ed7e::t_9e312fa4ff415b 1458-1613
+packages/web/i18n/zh-Hant/common.json
+  s_d5b0eb4a33ed7e::t_9e312fa4ff415b 1458-1613
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "7b4f00477a5d9e1ae89f7efff2e175faf53d9f30",
+  "prompts": {},
+  "sessions": {
+    "s_d5b0eb4a33ed7e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20368-19b1-7a30-bb9d-342eb0b17ffb",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "Jon <ljp@sangfor.com.cn>"
+    }
+  }
+}
