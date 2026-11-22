@@ -1,0 +1,19 @@
+packages/service/core/app/mcpOAuth/apiSupport.ts
+  s_d5b0eb4a33ed7e::t_570d08be23dc9e 4,64-80
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "f79d9a2944c595bea1716a3a834512009cb2e0b1",
+  "prompts": {},
+  "sessions": {
+    "s_d5b0eb4a33ed7e": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a20368-19b1-7a30-bb9d-342eb0b17ffb",
+        "model": "gpt-6.2-astra"
+      },
+      "human_author": "Jon <ljp@sangfor.com.cn>"
+    }
+  }
+}
